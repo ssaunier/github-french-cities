@@ -5,6 +5,7 @@ require 'city'
 
 require 'yaml'
 require 'colorize'
+require 'csv'
 
 CITIES = YAML.load(open('data/github_users_per_city.yml'))
 
@@ -41,9 +42,13 @@ def color(hub)
   end
 end
 
-HUBS.sort_by { |hub| -hub.ratio }.each_with_index do |hub, index|
-  color = color(hub)
-  index = (index + 1).to_s.rjust(3)
-  puts "#{index} [" + hub.name.colorize(color) + "] " + hub.ratio.round(2).to_s.colorize(color) +
-      " with #{hub.github_users} Github users over #{hub.population} inhabitants"
+CSV.open("data/github_users_per_hubs.csv", "wb", write_headers: true, headers: ["City hub", "Github Users", "Population"]) do |csv|
+  HUBS.sort_by { |hub| -hub.ratio }.each_with_index do |hub, index|
+    color = color(hub)
+    index = (index + 1).to_s.rjust(3)
+    puts "#{index} [" + hub.name.colorize(color) + "] " + hub.ratio.round(2).to_s.colorize(color) +
+        " with #{hub.github_users} Github users over #{hub.population} inhabitants"
+
+    csv << [hub.name, hub.github_users, hub.population]
+  end
 end
