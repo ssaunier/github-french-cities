@@ -12,14 +12,14 @@ You can jump straight to the [results](data/github_users_per_hubs.csv).
 
 ### Top 10
 
-1. Paris
-1. Nantes Métropole
-1. Grenoble Alpes Métropole
-1. Toulouse Métropole
-1. Montpellier Agglomération
-1. Rennes Métropole
-1. Grand Lyon
-1. Bordeaux Métropole
-1. Strasbourg (Communauté urbaine)
+1. [Paris](http://fr.wikipedia.org/wiki/Paris)
+1. [Nantes Métropole](http://fr.wikipedia.org/wiki/Nantes_M%C3%A9tropole)
+1. [Grenoble Alpes Métropole](http://fr.wikipedia.org/wiki/Communaut%C3%A9_d%27agglom%C3%A9ration_Grenoble_Alpes_M%C3%A9tropole)
+1. [Toulouse Métropole](http://fr.wikipedia.org/wiki/Communaut%C3%A9_urbaine_de_Toulouse_M%C3%A9tropole)
+1. [Montpellier Agglomération](http://fr.wikipedia.org/wiki/Montpellier_Agglom%C3%A9ration)
+1. [Rennes Métropole](http://fr.wikipedia.org/wiki/Rennes_M%C3%A9tropole)
+1. [Grand Lyon](http://fr.wikipedia.org/wiki/Grand_Lyon)
+1. [Bordeaux Métropole](http://fr.wikipedia.org/wiki/Communaut%C3%A9_urbaine_de_Bordeaux)
+1. [Strasbourg (Communauté urbaine)](http://fr.wikipedia.org/wiki/Communaut%C3%A9_urbaine_de_Strasbourg)
 
 Article to be written.
