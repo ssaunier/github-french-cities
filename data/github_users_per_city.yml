@@ -3282,18 +3282,20 @@ Wadelincourt: 0
 Warcq: 0
 Bouafle: 0
 Sarry: 0
-Martigny: MANUAL CHECK REQUIRED, 0 / 21
-Saint-Paul: MANUAL CHECK REQUIRED, 1 / 176
-Don: MANUAL CHECK REQUIRED, 0 / 144
-Laval: MANUAL CHECK REQUIRED, 9 / 56
-Bruges: MANUAL CHECK REQUIRED, 0 / 25
-Belleville: MANUAL CHECK REQUIRED, 0 / 17
-Palaiseau: MANUAL CHECK REQUIRED, 2 / 11
-Mons: MANUAL CHECK REQUIRED, 1 / 33
-Baden: MANUAL CHECK REQUIRED, 0 / 60
-Gan: MANUAL CHECK REQUIRED, 0 / 18
-Marie: MANUAL CHECK REQUIRED, 1 / 25
-Saint-Louis: MANUAL CHECK REQUIRED, 2 / 252
-Isle: MANUAL CHECK REQUIRED, 0 / 72
-Beaumont: MANUAL CHECK REQUIRED, 1 / 15
-Saint-Joseph: MANUAL CHECK REQUIRED, 1 / 12
+
+# Manually checked:
+Martigny: 0
+Saint-Paul: 1
+Don: 0
+Laval: 15
+Bruges: 0
+Belleville: 0
+Palaiseau: 11
+Mons: 0
+Baden: 0
+Gan: 0
+Marie: 0
+Saint-Louis: 2
+Isle: 0
+Beaumont: 1
+Saint-Joseph: 0
