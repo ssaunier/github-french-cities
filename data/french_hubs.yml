@@ -1,0 +1,4021 @@
+---
+- !ruby/object:City
+  name: Paris
+  population: 2249975
+- !ruby/object:City
+  name: Colombes
+  population: 85102
+- !ruby/object:City
+  name: Asnières-sur-Seine
+  population: 83376
+- !ruby/object:City
+  name: Champigny-sur-Marne
+  population: 75800
+- !ruby/object:City
+  name: Saint-Maur-des-Fossés
+  population: 74818
+- !ruby/object:City
+  name: Levallois-Perret
+  population: 64629
+- !ruby/object:City
+  name: Noisy-le-Grand
+  population: 62970
+- !ruby/object:City
+  name: Neuilly-sur-Seine
+  population: 61797
+- !ruby/object:City
+  name: Maisons-Alfort
+  population: 53265
+- !ruby/object:City
+  name: Fontenay-sous-Bois
+  population: 52723
+- !ruby/object:City
+  name: Le Blanc-Mesnil
+  population: 51916
+- !ruby/object:City
+  name: Livry-Gargan
+  population: 42036
+- !ruby/object:City
+  name: Gagny
+  population: 39378
+# - !ruby/object:City  # Les Antilles. No GitHub user there.
+#   name: Saint-Martin
+#   population: 36286
+- !ruby/object:City
+  name: Thonon-les-Bains
+  population: 33928
+- !ruby/object:City
+  name: Villeneuve-Saint-Georges
+  population: 32767
+- !ruby/object:Hub
+  name: Grand Lyon
+  cities:
+  - Lyon
+  - Albigny-sur-Saône
+  - Bron
+  - Cailloux-sur-Fontaines
+  - Caluire-et-Cuire
+  - Champagne-au-Mont-d'Or
+  - Charbonnières-les-Bains
+  - Charly
+  - Chassieu
+  - Collonges-au-Mont-d'Or
+  - Corbas
+  - Couzon-au-Mont-d'Or
+  - Craponne
+  - Curis-au-Mont-d'Or
+  - Dardilly
+  - Décines-Charpieu
+  - "Écully"
+  - Feyzin
+  - Fleurieu-sur-Saône
+  - Fontaines-Saint-Martin
+  - Fontaines-sur-Saône
+  - Francheville
+  - Genay
+  - Givors
+  - Grigny
+  - Irigny
+  - Jonage
+  - Limonest
+  - Lissieu
+  - Marcy-l'Étoile
+  - Meyzieu
+  - Mions
+  - Montanay
+  - La Mulatière
+  - Neuville-sur-Saône
+  - Oullins
+  - Pierre-Bénite
+  - Poleymieux-au-Mont-d'Or
+  - Rochetaillée-sur-Saône
+  - Rillieux-la-Pape
+  - Saint-Cyr-au-Mont-d'Or
+  - Saint-Didier-au-Mont-d'Or
+  - Sainte-Foy-lès-Lyon
+  - Saint-Fons
+  - Saint-Genis-Laval
+  - Saint-Genis-les-Ollières
+  - Saint-Germain-au-Mont-d'Or
+  - Saint-Priest
+  - Saint-Romain-au-Mont-d'Or
+  - Sathonay-Camp
+  - Sathonay-Village
+  - Solaize
+  - Tassin-la-Demi-Lune
+  - La Tour-de-Salvagny
+  - Vaulx-en-Velin
+  - Vénissieux
+  - Vernaison
+  - Villeurbanne
+  population: 1306972
+- !ruby/object:Hub
+  name: Lille Métropole
+  cities:
+  - Lille
+  - Anstaing
+  - Armentières
+  - Baisieux
+  - La Bassée
+  - Beaucamps-Ligny
+  - Bondues
+  - Bousbecque
+  - Bouvines
+  - Capinghem
+  - La Chapelle-d'Armentières
+  - Chéreng
+  - Comines
+  - Croix
+  - Deûlémont
+  - Don
+  - Emmerin
+  - Englos
+  - Ennetières-en-Weppes
+  - Erquinghem-le-Sec
+  - Erquinghem-Lys
+  - Escobecques
+  - Faches-Thumesnil
+  - Forest-sur-Marque
+  - Fournes-en-Weppes
+  - Frelinghien
+  - Fretin
+  - Gruson
+  - Hallennes-lez-Haubourdin
+  - Halluin
+  - Hantay
+  - Haubourdin
+  - Hem
+  - Herlies
+  - Houplin-Ancoisne
+  - Houplines
+  - Illies
+  - Lambersart
+  - Lannoy
+  - Leers
+  - Lesquin
+  - Lezennes
+  - Linselles
+  - Lompret
+  - Loos
+  - Lys-lez-Lannoy
+  - La Madeleine
+  - Marcq-en-Barœul
+  - Marquette-lez-Lille
+  - Marquillies
+  - Mons-en-Barœul
+  - Mouvaux
+  - Neuville-en-Ferrain
+  - Noyelles-lès-Seclin
+  - Pérenchies
+  - Péronne-en-Mélantois
+  - Prémesques
+  - Quesnoy-sur-Deûle
+  - Ronchin
+  - Roncq
+  - Roubaix
+  - Sailly-lez-Lannoy
+  - Sainghin-en-Mélantois
+  - Sainghin-en-Weppes
+  - Saint-André-lez-Lille
+  - Salomé
+  - Santes
+  - Seclin
+  - Sequedin
+  - Templemars
+  - Toufflers
+  - Tourcoing
+  - Tressin
+  - Vendeville
+  - Verlinghem
+  - Villeneuve-d'Ascq
+  - Wambrechies
+  - Warneton
+  - Wasquehal
+  - Wattignies
+  - Wattrelos
+  - Wavrin
+  - Wervicq-Sud
+  - Wicres
+  - Willems
+  population: 1112470
+- !ruby/object:Hub
+  name: Marseille Provence Métropole
+  cities:
+  - Allauch
+  - Carnoux-en-Provence
+  - Carry-le-Rouet
+  - Cassis
+  - Ceyreste
+  - Châteauneuf-les-Martigues
+  - Ensuès-la-Redonne
+  - Gémenos
+  - Gignac-la-Nerthe
+  - La Ciotat
+  - Le Rove
+  - Marignane
+  - Marseille
+  - Plan-de-Cuques
+  - Roquefort-la-Bédoule
+  - Saint-Victoret
+  - Sausset-les-Pins
+  - Septèmes-les-Vallons
+  population: 1038940
+- !ruby/object:Hub
+  name: Bordeaux Métropole
+  cities:
+  - Ambarès-et-Lagrave
+  - Ambès
+  - Artigues-près-Bordeaux
+  - Bassens
+  - Bègles
+  - Blanquefort
+  - Bordeaux
+  - Bouliac
+  - Bruges
+  - Carbon-Blanc
+  - Cenon
+  - Eysines
+  - Floirac
+  - Gradignan
+  - Le Bouscat
+  - Le Haillan
+  - Le Taillan-Médoc
+  - Lormont
+  - Martignas-sur-Jalle
+  - Mérignac
+  - Parempuyre
+  - Pessac
+  - Saint-Aubin-de-Médoc
+  - Saint-Louis-de-Montferrand
+  - Saint-Médard-en-Jalles
+  - Saint-Vincent-de-Paul
+  - Talence
+  - Villenave-d'Ornon
+  population: 727256
+- !ruby/object:Hub
+  name: Toulouse Métropole
+  cities:
+  - Toulouse
+  - Aigrefeuille
+  - Aucamville
+  - Aussonne
+  - Balma
+  - Beaupuy
+  - Beauzelle
+  - Blagnac
+  - Brax
+  - Bruguières
+  - Castelginest
+  - Colomiers
+  - Cornebarrieu
+  - Cugnaux
+  - Drémil-Lafage
+  - Fenouillet
+  - Flourens
+  - Fonbeauzard
+  - Gagnac-sur-Garonne
+  - Gratentour
+  - Launaguet
+  - Lespinasse
+  - Mondonville
+  - Mondouzil
+  - Mons
+  - Montrabé
+  - Pibrac
+  - Pin-Balma
+  - Quint-Fonsegrives
+  - Saint-Alban
+  - Saint-Jean
+  - Saint-Jory
+  - Saint-Orens-de-Gameville
+  - Seilh
+  - Tournefeuille
+  - L'Union
+  - Villeneuve-Tolosane
+  population: 714332
+- !ruby/object:Hub
+  name: Nantes Métropole
+  cities:
+  - Basse-Goulaine
+  - Bouaye
+  - Bouguenais
+  - Brains
+  - Carquefou
+  - La Chapelle-sur-Erdre
+  - Couëron
+  - Indre
+  - Mauves-sur-Loire
+  - La Montagne
+  - Nantes
+  - Orvault
+  - Le Pellerin
+  - Rezé
+  - Saint-Aignan-Grandlieu
+  - Saint-Herblain
+  - Saint-Jean-de-Boiseau
+  - Saint-Léger-les-Vignes
+  - Saint-Sébastien-sur-Loire
+  - Sainte-Luce-sur-Loire
+  - Sautron
+  - Les Sorinières
+  - Thouaré-sur-Loire
+  - Vertou
+  - Total
+  population: 582159
+- !ruby/object:Hub
+  name: Métropole Nice Côte d'Azur
+  cities:
+  - Aspremont
+  - Bairols
+  - Beaulieu-sur-Mer
+  - Belvédère
+  - La Bollène-Vésubie
+  - Bonson
+  - Le Broc
+  - Cagnes-sur-Mer
+  - Cap-d'Ail
+  - Carros
+  - Castagniers
+  - Clans
+  - Colomars
+  - Duranus
+  - Èze
+  - Falicon
+  - La Gaude
+  - Gattières
+  - Gilette
+  - Ilonse
+  - Isola
+  - Lantosque
+  - Levens
+  - Marie
+  - Nice
+  - Rimplas
+  - Roquebillière
+  - La Roquette-sur-Var
+  - Roubion
+  - Roure
+  - Saint-André-de-la-Roche
+  - Saint-Blaise
+  - Saint-Dalmas-le-Selvage
+  - Saint-Étienne-de-Tinée
+  - Saint-Jean-Cap-Ferrat
+  - Saint-Jeannet
+  - Saint-Laurent-du-Var
+  - Saint-Martin-du-Var
+  - Saint-Martin-Vésubie
+  - Saint-Sauveur-sur-Tinée
+  - La Tour
+  - Tournefort
+  - Tourrette-Levens
+  - La Trinité
+  - Utelle
+  - Valdeblore
+  - Venanson
+  - Vence
+  - Villefranche-sur-Mer
+  population: 538613
+- !ruby/object:Hub
+  name: Rouen - La CREA
+  cities:
+  - Amfreville-la-Mivoie
+  - Anneville-Ambourville
+  - Bardouville
+  - Belbeuf
+  - Berville-sur-Seine
+  - Bihorel
+  - Bois-Guillaume
+  - Bonsecours
+  - Boos
+  - Canteleu
+  - Caudebec-les-Elbeuf
+  - Cleon
+  - Darnetal
+  - Deville-les-Rouen
+  - Duclair
+  - Elbeuf
+  - Epinay-sur-Duclair
+  - Fontaine-sous-Preaux
+  - Franqueville-Saint-Pierre
+  - Freneuse
+  - Grand-Couronne
+  - Gouy
+  - Hautot-sur-Seine
+  - Henouville
+  - Houppeville
+  - Isneauville
+  - Jumieges
+  - La Bouille
+  - La Londe
+  - La Neuville-chant-d'oisel
+  - Le Grand-Quevilly
+  - Le Houlme
+  - Le Mesnil-Esnard
+  - Le Mesnil-sous-Jumieges
+  - Le Petit-Quevilly
+  - Le Trait
+  - les Authieux-sur-le-port-Saint-Ouen
+  - Malaunay
+  - Maromme
+  - Montmain
+  - Mont-Saint-Aignan
+  - Moulineaux
+  - Notre-Dame-de-Bondeville
+  - Oissel
+  - Orival
+  - Petit-Couronne
+  - Quevillon
+  - Quevreville-la-Poterie
+  - Roncherolles-sur-le-vivier
+  - Rouen
+  - Sahurs
+  - Saint-Aubin-Celloville
+  - Saint-Aubin-Epinay
+  - Saint-Aubin-les-Elbeuf
+  - Sainte-Marguerite-sur-Duclair
+  - Saint-Etienne-du-Rouvray
+  - Saint-Jacques-sur-Darnetal
+  - Saint-Leger-du-bourg-Denis
+  - Saint-Martin-de-Boscherville
+  - Saint-Martin-du-vivier
+  - Saint-Pierre-de-Manneville
+  - Saint-Pierre-de-Varengeville
+  - Saint-Pierre-les-Elbeuf
+  - Sotteville-les-Rouen
+  - Sotteville-sous-le-val
+  - Tourville-la-riviere
+  - Val-de-la-haye
+  - Yainville
+  - Ymare
+  - Yville-sur-Seine
+  population: 486519
+- !ruby/object:Hub
+  name: Strasbourg (Communauté urbaine)
+  cities:
+  - Bischheim
+  - Blaesheim
+  - Eckbolsheim
+  - Eckwersheim
+  - Entzheim
+  - Eschau
+  - Fegersheim
+  - Geispolsheim
+  - Hœnheim
+  - Holtzheim
+  - Illkirch-Graffenstaden
+  - Lampertheim
+  - Lingolsheim
+  - Lipsheim
+  - Mittelhausbergen
+  - Mundolsheim
+  - Niederhausbergen
+  - Oberhausbergen
+  - Oberschaeffolsheim
+  - Ostwald
+  - Plobsheim
+  - Reichstett
+  - Schiltigheim
+  - Souffelweyersheim
+  - Strasbourg
+  - Vendenheim
+  - La Wantzenau
+  - Wolfisheim
+  population: 473187
+- !ruby/object:Hub
+  name: Grenoble Alpes Métropole
+  cities:
+  - Grenoble
+  - Bresson
+  - Brié-et-Angonnes
+  - Champagnier
+  - Champ-sur-Drac
+  - Claix
+  - Corenc
+  - Domène
+  - "Échirolles"
+  - Eybens
+  - Fontaine
+  - Fontanil-Cornillon
+  - Gières
+  - Le Gua
+  - Herbeys
+  - Jarrie
+  - Meylan
+  - Miribel-Lanchâtre
+  - Montchaboud
+  - Mont-Saint-Martin
+  - Murianette
+  - Notre-Dame-de-Commiers
+  - Notre-Dame-de-Mésage
+  - Noyarey
+  - Poisat
+  - Le Pont-de-Claix
+  - Proveysieux
+  - Quaix-en-Chartreuse
+  - Saint-Barthélemy-de-Séchilienne
+  - Saint-Égrève
+  - Saint-Georges-de-Commiers
+  - Saint-Martin-d'Hères
+  - Saint-Martin-le-Vinoux
+  - Saint-Paul-de-Varces
+  - Saint-Pierre-de-Mésage
+  - Le Sappey-en-Chartreuse
+  - Sarcenas
+  - Sassenage
+  - Séchilienne
+  - Seyssinet-Pariset
+  - Seyssins
+  - La Tronche
+  - Varces-Allières-et-Risset
+  - Vaulnaveys-le-Bas
+  - Vaulnaveys-le-Haut
+  - Venon
+  - Veurey-Voroize
+  - Vif
+  - Vizille
+  population: 444810
+- !ruby/object:Hub
+  name: Montpellier Agglomération
+  cities:
+  - Baillargues
+  - Beaulieu
+  - Castelnau-le-Lez
+  - Castries
+  - Clapiers
+  - Cournonsec
+  - Cournonterral
+  - Le Crès
+  - Fabrègues
+  - Grabels
+  - Jacou
+  - Juvignac
+  - Lattes
+  - Lavérune
+  - Montaud
+  - Montferrier-sur-Lez
+  - Montpellier
+  - Murviel-lès-Montpellier
+  - Pérols
+  - Pignan
+  - Prades-le-Lez
+  - Restinclières
+  - Saint-Brès
+  - Saint-Drézéry
+  - Saint-Geniès-des-Mourgues
+  - Saint-Georges-d'Orques
+  - Saint-Jean-de-Védas
+  - Saussan
+  - Sussargues
+  - Vendargues
+  - Villeneuve-lès-Maguelone
+  - Total
+  population: 423842
+- !ruby/object:Hub
+  name: Toulon Provence Méditerranée
+  cities:
+  - Toulon
+  - Carqueiranne
+  - La Crau
+  - La Garde
+  - Hyères
+  - Ollioules
+  - Le Pradet
+  - Le Revest-les-Eaux
+  - Saint-Mandrier-sur-Mer
+  - La Seyne-sur-Mer
+  - Six-Fours-les-Plages
+  - La Valette-du-Var
+  population: 422405
+- !ruby/object:Hub
+  name: Rennes Métropole
+  cities:
+  - Rennes
+  - Acigné
+  - Bécherel
+  - Betton
+  - Bourgbarré
+  - Brécé
+  - Bruz
+  - Cesson-Sévigné
+  - Chantepie
+  - La Chapelle-Chaussée
+  - La Chapelle-des-Fougeretz
+  - La Chapelle-Thouarault
+  - Chartres-de-Bretagne
+  - Chavagne
+  - Chevaigné
+  - Cintré
+  - Clayes
+  - Corps-Nuds
+  - Gévezé
+  - L'Hermitage
+  - Laillé
+  - Langan
+  - Miniac-sous-Bécherel
+  - Montgermont
+  - Mordelles
+  - Nouvoitou
+  - Noyal-Châtillon-sur-Seiche
+  - Orgères
+  - Pacé
+  - Parthenay-de-Bretagne
+  - Pont-Péan
+  - Le Rheu
+  - Romillé
+  - Saint-Armel
+  - Saint-Erblon
+  - Saint-Gilles
+  - Saint-Grégoire
+  - Saint-Jacques-de-la-Lande
+  - Saint-Sulpice-la-Forêt
+  - Thorigné-Fouillard
+  - Le Verger
+  - Vern-sur-Seiche
+  - Vezin-le-Coquet
+  population: 413953
+- !ruby/object:Hub
+  name: Plaine-Commune
+  cities:
+  - Saint-Denis
+  - Aubervilliers
+  - La Courneuve
+  - "Épinay-sur-Seine"
+  - L'Île-Saint-Denis
+  - Pierrefitte-sur-Seine
+  - Saint-Ouen
+  - Stains
+  - Villetaneuse
+  population: 407007
+- !ruby/object:Hub
+  name: pays d'Aix
+  cities:
+  - Aix-en-Provence
+  - Beaurecueil
+  - Bouc-Bel-Air
+  - Cabriès
+  - Châteauneuf-le-Rouge
+  - Coudoux
+  - "Éguilles"
+  - Fuveau
+  - Gardanne
+  - Gréasque
+  - Jouques
+  - Lambesc
+  - Meyrargues
+  - Meyreuil
+  - Mimet
+  - Les Pennes-Mirabeau
+  - Pertuis
+  - Peynier
+  - Peyrolles-en-Provence
+  - Puyloubier
+  - Le Puy-Sainte-Réparade
+  - Rognes
+  - La Roque-d'Anthéron
+  - Rousset
+  - Saint-Antonin-sur-Bayon
+  - Saint-Cannat
+  - Saint-Estève-Janson
+  - Saint-Marc-Jaumegarde
+  - Saint-Paul-lès-Durance
+  - Simiane-Collongue
+  - Le Tholonet
+  - Trets
+  - Vauvenargues
+  - Venelles
+  - Ventabren
+  - Vitrolles
+  population: 402040
+- !ruby/object:Hub
+  name: Est Ensemble
+  cities:
+  - Bagnolet
+  - Bobigny
+  - Bondy
+  - Le Pré Saint-Gervais
+  - Les Lilas
+  - Montreuil
+  - Noisy-le-Sec
+  - Pantin
+  - Romainville
+  population: 397797
+- !ruby/object:Hub
+  name: Saint-Étienne Métropole
+  cities:
+  - Andrézieux-Bouthéon
+  - Caloire
+  - Cellieu
+  - Chagnon
+  - Le Chambon-Feugerolles
+  - Châteauneuf
+  - Dargoire
+  - Doizieux
+  - L'Étrat
+  - Farnay
+  - Firminy
+  - Fontanès
+  - La Fouillouse
+  - Fraisses
+  - Genilac
+  - La Grand-Croix
+  - L'Horme
+  - Lorette
+  - Marcenod
+  - Pavezin
+  - La Ricamarie
+  - Rive-de-Gier
+  - Roche-la-Molière
+  - Saint-Chamond
+  - Saint-Christo-en-Jarez
+  - Sainte-Croix-en-Jarez
+  - Saint-Étienne
+  - Saint-Genest-Lerpt
+  - Saint-Héand
+  - Saint-Jean-Bonnefonds
+  - Saint-Joseph
+  - Saint-Martin-la-Plaine
+  - Saint-Paul-en-Cornillon
+  - Saint-Paul-en-Jarez
+  - Saint-Priest-en-Jarez
+  - Saint-Romain-en-Jarez
+  - Sorbiers
+  - La Talaudière
+  - Tartaras
+  - La Terrasse-sur-Dorlay
+  - La Tour-en-Jarez
+  - Unieux
+  - Valfleury
+  - La Valla-en-Gier
+  - Villars
+  population: 386940
+- !ruby/object:Hub
+  name: Grand Paris Seine Ouest
+  cities:
+  - Boulogne-Billancourt
+  - Chaville
+  - Issy-les-Moulineaux
+  - Marnes-la-Coquette
+  - Meudon
+  - Sèvres
+  - Vanves
+  - Ville-d'Avray
+  - Vélizy-Villacoublay
+  population: 303094
+- !ruby/object:Hub
+  name: Tours Plus
+  cities:
+  - Ballan-Miré
+  - Berthenay
+  - Chambray-lès-Tours
+  - Chanceaux-sur-Choisille
+  - Druye
+  - Fondettes
+  - Joué-lès-Tours
+  - Luynes
+  - La Membrolle-sur-Choisille
+  - Mettray
+  - Notre-Dame-d'Oé
+  - La Riche
+  - Parçay-Meslay
+  - Rochecorbon
+  - Saint-Avertin
+  - Saint-Cyr-sur-Loire
+  - Saint-Étienne-de-Chigny
+  - Saint-Genouph
+  - Saint-Pierre-des-Corps
+  - Savonnières
+  - Tours
+  - Villandry
+  population: 287234
+- !ruby/object:Hub
+  name: Clermont Communauté
+  cities:
+  - Clermont-Ferrand
+  - Aubière
+  - Aulnat
+  - Beaumont
+  - Blanzat
+  - Cébazat
+  - Le Cendre
+  - Ceyrat
+  - Chamalières
+  - Châteaugay
+  - Cournon-d'Auvergne
+  - Durtol
+  - Gerzat
+  - Lempdes
+  - Nohanent
+  - Orcines
+  - Pérignat-lès-Sarliève
+  - Pont-du-Château
+  - Romagnat
+  - Royat
+  - Saint-Genès-Champanelle
+  population: 286818
+- !ruby/object:Hub
+  name: Perpignan Méditerranée
+  cities:
+  - Baho
+  - Baixas
+  - Bompas
+  - Cabestany
+  - Calce
+  - Canet-en-Roussillon
+  - Canohès
+  - Cases-de-Pène
+  - Cassagnes
+  - Espira-de-l'Agly
+  - Estagel
+  - Le Barcarès
+  - Llupia
+  - Perpignan
+  - Montner
+  - Opoul-Périllos
+  - Peyrestortes
+  - Pézilla-la-Rivière
+  - Pollestres
+  - Ponteilla
+  - Rivesaltes
+  - Sainte-Marie
+  - Saint-Estève
+  - Saint-Hippolyte
+  - Saint-Féliu-d'Avall
+  - Saint-Laurent-de-la-Salanque
+  - Saint-Nazaire
+  - Saleilles
+  - Le Soler
+  - Tautavel
+  - Toulouges
+  - Torreilles
+  - Villelongue-de-la-Salanque
+  - Villeneuve-de-la-Raho
+  - Villeneuve-la-Rivière
+  - Vingrau
+  population: 283173
+- !ruby/object:Hub
+  name: Orléans Val de Loire
+  cities:
+  - Boigny-sur-Bionne
+  - Bou
+  - Chanteau
+  - La Chapelle-Saint-Mesmin
+  - Chécy
+  - Combleux
+  - Fleury-les-Aubrais
+  - Ingré
+  - Mardié
+  - Marigny-les-Usages
+  - Olivet
+  - Orléans
+  - Ormes
+  - Saint-Cyr-en-Val
+  - Saint-Denis-en-Val
+  - Saint-Hilaire-Saint-Mesmin
+  - Saint-Jean-de-Braye
+  - Saint-Jean-de-la-Ruelle
+  - Saint-Jean-le-Blanc
+  - Saint-Pryvé-Saint-Mesmin
+  - Saran
+  - Semoy
+  population: 272172
+- !ruby/object:Hub
+  name: Angers Loire Métropole
+  cities:
+  - Angers
+  - Avrillé
+  - Beaucouzé
+  - Béhuard
+  - Bouchemaine
+  - Briollay
+  - Cantenay-Épinard
+  - "Écouflant"
+  - "Écuillé"
+  - Feneu
+  - La Meignanne
+  - La Membrolle-sur-Longuenée
+  - Montreuil-Juigné
+  - Mûrs-Erigné
+  - Pellouailles-les-Vignes
+  - Le Plessis-Grammoire
+  - Le Plessis-Macé
+  - Les Ponts-de-Cé
+  - Saint-Barthélemy-d'Anjou
+  - Saint-Clément-de-la-Place
+  - Sainte-Gemmes-sur-Loire
+  - Saint-Jean-de-Linières
+  - Saint-Lambert-la-Potherie
+  - Saint-Léger-des-Bois
+  - Saint-Martin-du-Fouilloux
+  - Saint-Sylvain-d'Anjou
+  - Sarrigné
+  - Savennières
+  - Soucelles
+  - Soulaines-sur-Aubance
+  - Soulaire-et-Bourg
+  - Trélazé
+  - Villevêque
+  population: 264689
+- !ruby/object:Hub
+  name: Mulhouse Alsace Agglomération (M2A)
+  cities:
+  - Baldersheim
+  - Battenheim
+  - Berrwiller
+  - Bollwiller
+  - Bruebach
+  - Brunstatt
+  - Galfingue
+  - Didenheim
+  - Dietwiller
+  - Eschentzwiller
+  - Feldkirch
+  - Flaxlanden
+  - Habsheim
+  - Heimsbrunn
+  - Illzach
+  - Kingersheim
+  - Lutterbach
+  - Mulhouse
+  - Morschwiller-Le-Bas
+  - Pfastatt
+  - Pulversheim
+  - Reiningue
+  - Richwiller
+  - Riedisheim
+  - Rixheim
+  - Ruelisheim
+  - Sausheim
+  - Staffelfelden
+  - Steinbrunn-le-Bas
+  - Ungersheim
+  - Wittelsheim
+  - Wittenheim
+  - Zillisheim
+  - Zimmersheim
+  - Totaux
+  population: 262804
+- !ruby/object:Hub
+  name: Grand Nancy
+  cities:
+  - Art-sur-Meurthe
+  - Dommartemont
+  - Essey-lès-Nancy
+  - Fléville-devant-Nancy
+  - Heillecourt
+  - Houdemont
+  - Jarville-la-Malgrange
+  - Laneuveville-devant-Nancy
+  - Laxou
+  - Ludres
+  - Malzéville
+  - Maxéville
+  - Nancy
+  - Pulnoy
+  - Saint-Max
+  - Saulxures-lès-Nancy
+  - Seichamps
+  - Tomblaine
+  - Vandœuvre-lès-Nancy
+  - Villers-lès-Nancy
+  population: 256966
+- !ruby/object:Hub
+  name: Grand Dijon
+  cities:
+  - Ahuy
+  - Bressey-sur-Tille
+  - Bretenière
+  - Chenôve
+  - Chevigny-Saint-Sauveur
+  - Corcelles-les-Monts
+  - Crimolois
+  - Daix
+  - Dijon
+  - Fénay
+  - Flavignerot
+  - Fontaine-lès-Dijon
+  - Hauteville-lès-Dijon
+  - Longvic
+  - Magny-sur-Tille
+  - Marsannay-la-Côte
+  - Neuilly-lès-Dijon
+  - Ouges
+  - Perrigny-lès-Dijon
+  - Plombières-lès-Dijon
+  - Quetigny
+  - Saint-Apollinaire
+  - Sennecey-lès-Dijon
+  - Talant
+  population: 251179
+- !ruby/object:Hub
+  name: Lens-Liévin
+  cities:
+  - Ablain-Saint-Nazaire
+  - Acheville
+  - Aix-Noulette
+  - Angres
+  - Annay
+  - Avion
+  - Bénifontaine
+  - Billy-Montigny
+  - Bouvigny-Boyeffles
+  - Bully-les-Mines
+  - Carency
+  - Éleu-dit-Leauwette
+  - Estevelles
+  - Fouquières-lès-Lens
+  - Givenchy-en-Gohelle
+  - Gouy-Servins
+  - Grenay
+  - Harnes
+  - Hulluch
+  - Lens
+  - Liévin
+  - Loison-sous-Lens
+  - Loos-en-Gohelle
+  - Mazingarbe
+  - Méricourt
+  - Meurchin
+  - Noyelles-sous-Lens
+  - Pont-à-Vendin
+  - Sains-en-Gohelle
+  - Sallaumines
+  - Servins
+  - Souchez
+  - Vendin-le-Vieil
+  - Villers-au-Bois
+  - Vimy
+  - Wingles
+  population: 244561
+- !ruby/object:Hub
+  name: Le Havre - CODAH
+  cities:
+  - Cauville-sur-Mer
+  - Épouville
+  - Fontaine-la-Mallet
+  - Fontenay
+  - Gainneville
+  - Gonfreville-l'Orcher
+  - Harfleur
+  - Le Havre
+  - Manéglise
+  - Mannevillette
+  - Montivilliers
+  - Notre-Dame-du-Bec
+  - Octeville-sur-Mer
+  - Rogerville
+  - Rolleville
+  - Sainte-Adresse
+  - Saint-Martin-du-Manoir
+  population: 238151
+- !ruby/object:Hub
+  name: Communauté d'agglomération Caen la Mer
+  cities:
+  - Authie
+  - Bénouville
+  - Biéville-Beuville
+  - Blainville-sur-Orne
+  - Bretteville-sur-Odon
+  - Caen
+  - Cambes-en-Plaine
+  - Carpiquet
+  - Colleville-Montgomery
+  - Colombelles
+  - Cormelles-le-Royal
+  - Cuverville
+  - Démouville
+  - "Épron"
+  - "Éterville"
+  - Fleury-sur-Orne
+  - Giberville
+  - Hermanville-sur-Mer
+  - Hérouville-Saint-Clair
+  - Ifs
+  - Lion-sur-Mer
+  - Louvigny
+  - Mathieu
+  - Mondeville
+  - Mouen
+  - Ouistreham
+  - Périers-sur-le-Dan
+  - Saint-André-sur-Orne
+  - Saint-Aubin-d'Arquenay
+  - Saint-Contest
+  - Saint-Germain-la-Blanche-Herbe
+  - Sannerville
+  - Tourville-sur-Odon
+  - Verson
+  - Villons-les-Buissons
+  population: 236271
+- !ruby/object:Hub
+  name: Nîmes Métropole
+  cities:
+  - Bernis
+  - Bezouce
+  - Bouillargues
+  - Cabrières
+  - Caissargues
+  - La Calmette
+  - Caveirac
+  - Clarensac
+  - Dions
+  - Garons
+  - Générac
+  - Langlade
+  - Lédenon
+  - Manduel
+  - Marguerittes
+  - Milhaud
+  - Nîmes
+  - Poulx
+  - Redessan
+  - Rodilhan
+  - Sainte-Anastasie
+  - Saint-Chaptes
+  - Saint-Côme-et-Maruéjols
+  - Saint-Dionisy
+  - Saint-Gervasy
+  - Saint-Gilles
+  - Sernhac
+  population: 233257
+- !ruby/object:Hub
+  name: Metz Métropole
+  cities:
+  - Metz
+  - Amanvillers
+  - Ars-Laquenexy
+  - Ars-sur-Moselle
+  - Augny
+  - Le Ban-Saint-Martin
+  - Châtel-Saint-Germain
+  - Chesny
+  - Chieulles
+  - Coin-lès-Cuvry
+  - Coin-sur-Seille
+  - Cuvry
+  - Féy
+  - Gravelotte
+  - Jury
+  - Jussy
+  - Laquenexy
+  - Lessy
+  - Longeville-lès-Metz
+  - Lorry-lès-Metz
+  - Marieulles
+  - Marly
+  - La Maxe
+  - Mécleuves
+  - Mey
+  - Montigny-lès-Metz
+  - Moulins-lès-Metz
+  - Noisseville
+  - Nouilly
+  - Peltre
+  - Plappeville
+  - Pouilly
+  - Pournoy-la-Chétive
+  - Rozérieulles
+  - Saint-Julien-lès-Metz
+  - Sainte-Ruffine
+  - Saint-Privat-la-Montagne
+  - Saulny
+  - Scy-Chazelles
+  - Vantoux
+  - Vany
+  - Vaux
+  - Vernéville
+  - Woippy
+  population: 230334
+- !ruby/object:Hub
+  name: Reims Métropole
+  cities:
+  - Bétheny
+  - Bezannes
+  - Cernay-lès-Reims
+  - Champfleury
+  - Champigny
+  - Cormontreuil
+  - Puisieulx
+  - Prunay
+  - Reims
+  - Saint-Brice-Courcelles
+  - Saint-Léonard
+  - Sillery
+  - Taissy
+  - Tinqueux
+  - Trois-Puits
+  - Villers-aux-Nœuds
+  population: 221255
+- !ruby/object:Hub
+  name: Mont-Valérien
+  cities:
+  - Nanterre
+  - Rueil-Malmaison
+  - Suresnes
+  population: 215334
+- !ruby/object:Hub
+  name: Limoges Métropole
+  cities:
+  - Aureil
+  - Boisseuil
+  - Bonnac-la-Côte
+  - Condat-sur-Vienne
+  - Couzeix
+  - Eyjeaux
+  - Feytiat
+  - Isle
+  - Le Palais-sur-Vienne
+  - Le Vigen
+  - Limoges
+  - Panazol
+  - Peyrilhac
+  - Rilhac-Rancon
+  - Saint-Gence
+  - Saint-Just-le-Martel
+  - Solignac
+  - Verneuil-sur-Vienne
+  - Veyrac
+  population: 207581
+- !ruby/object:Hub
+  name: Brest métropole océane
+  cities:
+  - Bohars
+  - Brest
+  - Gouesnou
+  - Guilers
+  - Guipavas
+  - Plougastel-Daoulas
+  - Plouzané
+  - Le Relecq-Kerhuon
+  population: 206893
+- !ruby/object:Hub
+  name: Dunkerque Grand Littoral
+  cities:
+  - Dunkerque
+  - Armbouts-Cappel
+  - Bourbourg
+  - Bray-Dunes
+  - Cappelle-la-Grande
+  - Coudekerque-Branche
+  - Coudekerque-Village
+  - Craywick
+  - Ghyvelde
+  - Grande-Synthe
+  - Grand-Fort-Philippe
+  - Gravelines
+  - Leffrinckoucke
+  - Loon-Plage
+  - Saint-Georges-sur-l'Aa
+  - Spycker
+  - Téteghem
+  - Zuydcoote
+  population: 200104
+- !ruby/object:Hub
+  name: Lorient Agglomération
+  cities:
+  - Lorient
+  - Brandérion
+  - Bubry
+  - Calan
+  - Caudan
+  - Cléguer
+  - Gâvres
+  - Gestel
+  - Groix
+  - Guidel
+  - Hennebont
+  - Inzinzac-Lochrist
+  - Inguiniel
+  - Lanester
+  - Languidic
+  - Lanvaudan
+  - Larmor-Plage
+  - Locmiquélic
+  - Ploemeur
+  - Plouay
+  - Pont-Scorff
+  - Port-Louis
+  - Quéven
+  - Quistinic
+  - Riantec
+  population: 198810
+- !ruby/object:Hub
+  name: Le Mans Métropole
+  cities:
+  - Aigné
+  - Allonnes
+  - Arnage
+  - Champagné
+  - La Chapelle-Saint-Aubin
+  - Coulaines
+  - Le Mans
+  - La Milesse
+  - Mulsanne
+  - Rouillon
+  - Ruaudin
+  - Saint-Saturnin
+  - Sargé-lès-le-Mans
+  - Yvré-l'Évêque
+  population: 197953
+- !ruby/object:Hub
+  name: Val de Bièvre
+  cities:
+  - Arcueil
+  - Cachan
+  - Fresnes
+  - Gentilly
+  - L'Haÿ-les-Roses
+  - Le Kremlin-Bicêtre
+  - Villejuif
+  population: 197515
+- !ruby/object:Hub
+  name: Cergy-Pontoise
+  cities:
+  - Boisemont
+  - Cergy
+  - Courdimanche
+  - Éragny
+  - Jouy-le-Moutier
+  - Menucourt
+  - Neuville-sur-Oise
+  - Osny
+  - Pontoise
+  - Puiseux-Pontoise
+  - Saint-Ouen-l'Aumône
+  - Vauréal et Maurecourt
+  population: 197187
+- !ruby/object:Hub
+  name: Communauté intercommunale du nord de La Réunion
+  cities:
+  - Saint-Denis
+  - Sainte-Marie
+  - Sainte-Suzanne
+  population: 190624
+- !ruby/object:Hub
+  name: Communauté d'agglomération de Valenciennes Métropole
+  cities:
+  - Valenciennes
+  - Anzin
+  - Artres
+  - Aubry-du-Hainaut
+  - Aulnoy-lez-Valenciennes
+  - Beuvrages
+  - Bruay-sur-l'Escaut
+  - Condé-sur-l'Escaut
+  - Crespin
+  - Curgies
+  - Estreux
+  - Famars
+  - Fresnes-sur-Escaut
+  - Hergnies
+  - Maing
+  - Marly
+  - Monchaux-sur-Écaillon
+  - Odomez
+  - Onnaing
+  - Petite-Forêt
+  - Préseau
+  - Prouvy
+  - Quarouble
+  - Quérénaing
+  - Quiévrechain
+  - Rombies-et-Marchipont
+  - Rouvignies
+  - Saint-Aybert
+  - Saint-Saulve
+  - Saultain
+  - Sebourg
+  - Thivencelle
+  - Verchain-Maugré
+  - Vicq
+  - Vieux-Condé
+  population: 190528
+- !ruby/object:Hub
+  name: Versailles Grand Parc
+  cities:
+  - Bailly
+  - Bièvres
+  - Bois d'Arcy
+  - Bougival
+  - Buc
+  - Châteaufort
+  - Fontenay-le-Fleury
+  - Jouy-en-Josas
+  - La Celle-Saint-Cloud
+  - Le Chesnay
+  - Les Loges-en-Josas
+  - Noisy-le-Roi
+  - Rennemoulin
+  - Rocquencourt
+  - Saint-Cyr-l'École
+  - Toussus-le-Noble
+  - Versailles
+  - Viroflay
+  population: 182969
+- !ruby/object:Hub
+  name: Grand Avignon
+  cities:
+  - Avignon
+  - Les Angles
+  - Caumont-sur-Durance
+  - Entraigues-sur-la-Sorgue
+  - Jonquerettes
+  - Morières-lès-Avignon
+  - Le Pontet
+  - Pujaut
+  - Rochefort-du-Gard
+  - Saint-Saturnin-lès-Avignon
+  - Sauveterre
+  - Saze
+  - Vedène
+  - Velleron
+  - Villeneuve-lès-Avignon
+  population: 182763
+- !ruby/object:Hub
+  name: communauté d'agglomération des Hauts-de-Bièvre
+  cities:
+  - Antony
+  - Bourg-la-Reine
+  - Châtenay-Malabry
+  - Le Plessis-Robinson
+  - Sceaux
+  - Verrières-le-Buisson
+  - Wissous
+  population: 182477
+- !ruby/object:Hub
+  name: Communauté d'agglomération du Parisis
+  cities:
+  - Beauchamp
+  - Bessancourt
+  - Cormeilles-en-Parisis
+  - Franconville
+  - Herblay
+  - La Frette-sur-Seine
+  - Montigny-lès-Cormeilles
+  - Pierrelaye
+  - Sannois
+  - Taverny
+  population: 180748
+- !ruby/object:Hub
+  name: Amiens Métropole
+  cities:
+  - Allonville
+  - Amiens
+  - Bertangles
+  - Blangy-Tronville
+  - Bovelles
+  - Boves
+  - Cagny
+  - Camon
+  - Clairy-Saulchoix
+  - Creuse
+  - Dreuil-lès-Amiens
+  - Dury
+  - Estrées-sur-Noye
+  - Glisy
+  - Grattepanche
+  - Guignemicourt
+  - Hébécourt
+  - Longueau
+  - Pissy
+  - Pont-de-Metz
+  - Poulainville
+  - Remiencourt
+  - Revelles
+  - Rivery
+  - Rumigny
+  - Sains-en-Amiénois
+  - Saint-Fuscien
+  - Saint-Sauflieu
+  - Saleux
+  - Salouël
+  - Saveuse
+  - Thézy-Glimont
+  - Vers-sur-Selles
+  population: 179098
+- !ruby/object:Hub
+  name: Sophia Antipolis
+  cities:
+  - Antibes
+  - Le Bar-sur-Loup
+  - Bézaudun-les-Alpes
+  - Biot
+  - Bouyon
+  - Caussols
+  - Châteauneuf-Grasse
+  - Cipières
+  - La Colle-sur-Loup
+  - Conségudes
+  - Courmes
+  - Coursegoules
+  - Les Ferres
+  - Gourdon
+  - Gréolières
+  - Opio
+  - Roquefort-les-Pins
+  - Roquestéron-Grasse
+  - Le Rouret
+  - Saint-Paul-de-Vence
+  - Tourrettes-sur-Loup
+  - Valbonne
+  - Vallauris
+  - Villeneuve-Loubet
+  population: 176933
+- !ruby/object:Hub
+  name: Grand Besançon
+  cities:
+  - Besançon
+  - Amagney
+  - Arguel
+  - Audeux
+  - Auxon-Dessous
+  - Auxon-Dessus
+  - Avanne-Aveney
+  - Beure
+  - Boussières
+  - Braillans
+  - Busy
+  - Chalèze
+  - Chalezeule
+  - Champagney
+  - Champoux
+  - Champvans-les-Moulins
+  - Châtillon-le-Duc
+  - Chaucenne
+  - Chaudefontaine
+  - Chemaudin
+  - La Chevillotte
+  - Dannemarie-sur-Crète
+  - Deluz
+  - "École-Valentin"
+  - Fontain
+  - Franois
+  - Gennes
+  - Grandfontaine
+  - Le Gratteris
+  - Larnod
+  - Mamirolle
+  - Marchaux
+  - Mazerolles-le-Salin
+  - Miserey-Salines
+  - Montfaucon
+  - Montferrand-le-Château
+  - Morre
+  - Nancray
+  - Noironte
+  - Novillars
+  - Osselle
+  - Pelousey
+  - Pirey
+  - Pouilley-les-Vignes
+  - Pugey
+  - Rancenay
+  - Roche-lez-Beaupré
+  - Routelle
+  - Saône
+  - Serre-les-Sapins
+  - Tallenay
+  - Thise
+  - Thoraise
+  - Torpes
+  - Vaire-Arcier
+  - Vaire-le-Petit
+  - Vaux-les-Prés
+  - La Vèze
+  - Vorges-les-Pins
+  population: 176339
+- !ruby/object:Hub
+  name: Communauté de communes de la Boucle de la Seine
+  cities:
+  - Carrières-sur-Seine
+  - Chatou
+  - Croissy-sur-Seine
+  - Houilles
+  - Montesson
+  - Sartrouville
+  - Le Vésinet
+  population: 172316
+- !ruby/object:Hub
+  name: CIVIS
+  cities:
+  - Cilaos
+  - "L'Étang-Salé"
+  - Les Avirons
+  - Petite-Île
+  - Saint-Louis
+  - Saint-Pierre
+  population: 171890
+- !ruby/object:Hub
+  name: Centre de la Martinique
+  cities:
+  - Fort-de-France
+  - Le Lamentin
+  - Saint-Joseph
+  - Schœlcher
+  population: 167961
+- !ruby/object:Hub
+  name: Val de France
+  cities:
+  - Arnouville
+  - Garges-lès-Gonesse
+  - Sarcelles
+  - Villiers-le-Bel
+  - Gonesse
+  - Bonneuil-en-France
+  population: 165969
+- !ruby/object:Hub
+  name: La Rochelle
+  cities:
+  - La Rochelle
+  - Angoulins
+  - Aytré
+  - Bourgneuf
+  - Châtelaillon-Plage
+  - Clavette
+  - Croix-Chapeau
+  - Dompierre-sur-Mer
+  - Esnandes
+  - L'Houmeau
+  - La Jarne
+  - La Jarrie
+  - Lagord
+  - Marsilly
+  - Montroy
+  - Nieul-sur-Mer
+  - Périgny
+  - Puilboreau
+  - Saint-Christophe
+  - Saint-Médard-d'Aunis
+  - Saint-Rogatien
+  - Sainte-Soulle
+  - Saint-Vivien
+  - Saint-Xandre
+  - Salles-sur-Mer
+  - Thairé
+  - Vérines
+  - Yves
+  population: 162781
+- !ruby/object:Hub
+  name: Pays de Lérins
+  cities:
+  - Cannes
+  - Le Cannet
+  - Mandelieu-la-Napoule
+  - Mougins
+  - Théoule-sur-Mer
+  population: 158349
+- !ruby/object:Hub
+  name: Plaine Centrale du Val-de-Marne
+  cities:
+  - Alfortville
+  - Créteil
+  - Limeil-Brévannes
+  population: 153901
+- !ruby/object:Hub
+  name: Douaisis
+  cities:
+  - Douai
+  - Anhiers
+  - Arleux
+  - Aubigny-au-Bac
+  - Auby
+  - Brunémont
+  - Bugnicourt
+  - Cantin
+  - Courchelettes
+  - Cuincy
+  - Dechy
+  - Erchin
+  - Esquerchin
+  - Estrées
+  - Faumont
+  - Féchain
+  - Férin
+  - Flers-en-Escrebieux
+  - Flines-lez-Raches
+  - Fressain
+  - Gœulzin
+  - Guesnain
+  - Hamel
+  - Lallaing
+  - Lambres-lez-Douai
+  - Lauwin-Planque
+  - Lécluse
+  - Marcq-en-Ostrevent
+  - Râches
+  - Raimbeaucourt
+  - Roost-Warendin
+  - Roucourt
+  - Sin-le-Noble
+  - Villers-au-Tertre
+  - Waziers
+  population: 152258
+- !ruby/object:Hub
+  name: Pau-Pyrénées
+  cities:
+  - Artigueloutan
+  - Billère
+  - Bizanos
+  - Gan
+  - Gelos
+  - Idron
+  - Jurançon
+  - Lée
+  - Lescar
+  - Lons
+  - Mazères-Lezons
+  - Ousse
+  - Pau
+  - Sendets
+  population: 150539
+- !ruby/object:Hub
+  name: Europ'Essonne
+  cities:
+  - Ballainvilliers
+  - Champlan
+  - Chilly-Mazarin
+  - Épinay-sur-Orge
+  - La Ville-du-Bois
+  - Linas
+  - Longjumeau
+  - Marcoussis
+  - Massy
+  - Montlhéry
+  - Nozay
+  - Saulx-les-Chartreux
+  - Villebon-sur-Yvette
+  - Villejust
+  population: 148544
+- !ruby/object:Hub
+  name: Saint-Quentin-en-Yvelines
+  cities:
+  - Élancourt
+  - Guyancourt
+  - Magny-les-Hameaux
+  - Montigny-le-Bretonneux
+  - Trappes
+  - La Verrière
+  - Voisins-le-Bretonneux
+  population: 146598
+- !ruby/object:Hub
+  name: Sud de Seine
+  cities:
+  - Bagneux
+  - Clamart
+  - Fontenay-aux-Roses
+  - Malakoff
+  population: 144959
+- !ruby/object:Hub
+  name: Annecy
+  cities:
+  - Annecy
+  - Annecy-le-Vieux
+  - Argonay
+  - Chavanod
+  - Cran-Gevrier
+  - Épagny
+  - Metz-Tessy
+  - Meythet
+  - Montagny-les-Lanches
+  - Poisy
+  - Pringy
+  - Quintal
+  - Seynod
+  population: 140865
+- !ruby/object:Hub
+  name: Agglopole Provence
+  cities:
+  - Salon-de-Provence
+  - Alleins
+  - Aurons
+  - La Barben
+  - Berre-l'Étang
+  - Charleval
+  - Eyguières
+  - La Fare-les-Oliviers
+  - Lamanon
+  - Lançon-Provence
+  - Mallemort
+  - Pélissanne
+  - Rognac
+  - Saint-Chamas
+  - Sénas
+  - Velaux
+  - Vernègues
+  population: 138683
+- !ruby/object:Hub
+  name: Grand Poitiers
+  cities:
+  - Poitiers
+  - Béruges
+  - Biard
+  - Buxerolles
+  - Chasseneuil-du-Poitou
+  - Croutelle
+  - Fontaine-le-Comte
+  - Ligugé
+  - Mignaloux-Beauvoir
+  - Migné-Auxances
+  - Montamisé
+  - Saint-Benoît
+  - Vouneuil-sous-Biard
+  population: 138485
+- !ruby/object:Hub
+  name: Pays de Vannes
+  cities:
+  - Vannes
+  - Arradon
+  - Baden
+  - Bono
+  - Elven
+  - Le Hézo
+  - "Île-aux-Moines"
+  - "Île-d'Arz"
+  - Larmor-Baden
+  - Meucon
+  - Monterblanc
+  - Noyalo
+  - Plescop
+  - Ploeren
+  - Plougoumelen
+  - Saint-Avé
+  - Saint-Nolff
+  - Séné
+  - Sulniac
+  - Surzur
+  - Theix
+  - Trédion
+  - Treffléan
+  - La Trinité-Surzur
+  population: 135382
+- !ruby/object:Hub
+  name: Val d'Orge
+  cities:
+  - Brétigny-sur-Orge
+  - Fleury-Mérogis
+  - Le Plessis-Pâté
+  - Leuville-sur-Orge
+  - Longpont-sur-Orge
+  - Morsang-sur-Orge
+  - Sainte-Geneviève-des-Bois
+  - Saint-Michel-sur-Orge
+  - Villemoisson-sur-Orge
+  - Villiers-sur-Orge
+  population: 133177
+- !ruby/object:Hub
+  name: Communauté d'agglomération Argenteuil-Bezons
+  cities:
+  - Argenteuil
+  - Bezons
+  population: 132878
+- !ruby/object:Hub
+  name: Seine-Défense
+  cities:
+  - Courbevoie
+  - Puteaux
+  population: 132222
+- !ruby/object:Hub
+  name: Grand Troyes
+  cities:
+  - Bréviandes
+  - Buchères
+  - Isle-Aumon
+  - La Chapelle-Saint-Luc
+  - La Rivière-de-Corps
+  - Les Noës-près-Troyes
+  - Moussey
+  - Pont-Sainte-Marie
+  - Rosières-près-Troyes
+  - Saint-André-les-Vergers
+  - Saint-Julien-les-Villas
+  - Saint-Léger-près-Troyes
+  - Saint-Parres-aux-Tertres
+  - Sainte-Savine
+  - Saint-Germain
+  - Troyes
+  - Saint-Thibault
+  - Torvilliers
+  - Verrières
+  population: 129235
+- !ruby/object:Hub
+  name: Val de Sambre
+  cities:
+  - Maubeuge
+  - Aibes
+  - Assevent
+  - Aulnoye-Aymeries
+  - Bachant
+  - Beaufort
+  - Berlaimont
+  - Bersillies
+  - Bettignies
+  - Bousignies-sur-Roc
+  - Boussières-sur-Sambre
+  - Boussois
+  - Cerfontaine
+  - Colleret
+  - Cousolre
+  - "Éclaibes"
+  - "Écuélin"
+  - "Élesmes"
+  - Feignies
+  - Ferrière-la-Grande
+  - Ferrière-la-Petite
+  - Gognies-Chaussée
+  - Hautmont
+  - Jeumont
+  - Leval
+  - Limont-Fontaine
+  - Louvroil
+  - Mairieux
+  - Marpent
+  - Monceau-Saint-Waast
+  - Neuf-Mesnil
+  - Obrechies
+  - Pont-sur-Sambre
+  - Quiévelon
+  - Recquignies
+  - Rousies
+  - Saint-Remy-Chaussée
+  - Saint-Remy-du-Nord
+  - Sassegnies
+  - Vieux-Mesnil
+  - Vieux-Reng
+  - Villers-Sire-Nicole
+  population: 126336
+- !ruby/object:Hub
+  name: Le Grand Narbonne
+  cities:
+  - Argeliers
+  - Armissan
+  - Bages
+  - Bizanet
+  - Bize-Minervois
+  - Caves
+  - Coursan
+  - Cuxac-d'Aude
+  - Feuilla
+  - Fleury
+  - Fraissé-des-Corbières
+  - Ginestas
+  - Gruissan
+  - La Palme
+  - Leucate
+  - Mailhac
+  - Marcorignan
+  - Mirepeisset
+  - Montredon-des-Corbières
+  - Moussan
+  - Narbonne
+  - Névian
+  - Ouveillan
+  - Peyriac-de-Mer
+  - Port-la-Nouvelle
+  - Portel-des-Corbières
+  - Pouzols-Minervois
+  - Raissac-d'Aude
+  - Roquefort-des-Corbières
+  - Saint-Marcel-sur-Aude
+  - Saint-Nazaire-d'Aude
+  - Sainte-Valière
+  - Sallèles-d'Aude
+  - Salles-d'Aude
+  - Sigean
+  - Treilles
+  - Ventenac-en-Minervois
+  - Villedaigne
+  - Vinassan
+  population: 125487
+- !ruby/object:Hub
+  name: Chartres Métropole
+  cities:
+  - Amilly
+  - Bailleau-l'Évêque
+  - Barjouville
+  - Berchères-les-Pierres
+  - Berchères-Saint-Germain
+  - Briconville
+  - Challet
+  - Champhol
+  - Chartres
+  - Chauffours
+  - Cintray
+  - Clévilliers
+  - Coltainville
+  - Corancez
+  - Dammarie
+  - Dangers
+  - Francourville
+  - Fontenay-sur-Eure
+  - Fresnay-le-Comte
+  - Fresnay-le-Gilmert
+  - Gasville-Oisème
+  - Gellainville
+  - Houville-la-Branche
+  - Jouy
+  - La Bourdinière-Saint-Loup
+  - Le Coudray
+  - Lèves
+  - Lucé
+  - Luisant
+  - Mainvilliers
+  - Meslay-le-Grenet
+  - Mignières
+  - Mittainvilliers
+  - Morancez
+  - Nogent-le-Phaye
+  - Nogent-sur-Eure
+  - Ollé
+  - Poisvilliers
+  - Prunay-le-Gillon
+  - Saint-Georges-sur-Eure
+  - Saint-Aubin-des-Bois
+  - Saint-Prest
+  - Sours
+  - Thivars
+  - Vérigny
+  - Ver-lès-Chartres
+  - Voise
+  population: 124690
+- !ruby/object:Hub
+  name: Côte Basque-Adour
+  cities:
+  - Anglet
+  - Bayonne
+  - Biarritz
+  - Bidart
+  - Boucau
+  population: 123619
+- !ruby/object:Hub
+  name: Chambéry métropole
+  cities:
+  - Barberaz
+  - Barby
+  - Bassens
+  - Challes-les-Eaux
+  - Chambéry
+  - Cognin
+  - Curienne
+  - Les Déserts
+  - Jacob-Bellecombette
+  - Montagnole
+  - La Motte-Servolex
+  - Puygros
+  - La Ravoire
+  - Saint-Alban-Leysse
+  - Saint-Baldoph
+  - Saint-Cassin
+  - Saint-Jean-d'Arvey
+  - Saint-Jeoire-Prieuré
+  - Saint-Sulpice
+  - Sonnaz
+  - Thoiry
+  - La Thuile
+  - Verel-Pragondran
+  - Vimines
+  population: 122696
+- !ruby/object:Hub
+  name: Plateau de Saclay
+  cities:
+  - Bures-sur-Yvette
+  - Gif-sur-Yvette
+  - Gometz-le-Châtel
+  - Igny
+  - Les Ulis
+  - Orsay
+  - Palaiseau
+  - Saclay
+  - Saint-Aubin
+  - Vauhallan
+  - Villiers-le-Bâcle
+  population: 121276
+- !ruby/object:Hub
+  name: Terres de France
+  cities:
+  - Sevran
+  - Tremblay-en-France
+  - Villepinte
+  population: 120355
+- !ruby/object:Hub
+  name: Plaine de France
+  cities:
+  - Juilly
+  - Le Mesnil-Amelot
+  - Mauregard
+  - Moussy-le-Vieux
+  - Nantouillet
+  - Othis
+  - Rouvres
+  - Vinantes
+  population: 120355
+- !ruby/object:Hub
+  name: Saint-Brieuc Agglomération
+  cities:
+  - Saint-Brieuc
+  - Hillion
+  - Langueux
+  - La Méaugon
+  - Plédran
+  - Plérin
+  - Ploufragan
+  - Pordic
+  - Saint-Donan
+  - Saint-Julien
+  - Trégueux
+  - Tréméloir
+  - Trémuson
+  - Yffiniac
+  population: 120305
+- !ruby/object:Hub
+  name: Boulonnais
+  cities:
+  - Baincthun
+  - Boulogne-sur-Mer
+  - Condette
+  - Conteville-lès-Boulogne
+  - Dannes
+  - Echinghen
+  - Équihen-Plage
+  - Hesdigneul-lès-Boulogne
+  - Hesdin-l'Abbé
+  - Isques
+  - La Capelle-lès-Boulogne
+  - Nesles
+  - Neufchâtel-Hardelot
+  - Outreau
+  - Pernes-lès-Boulogne
+  - Pittefaux
+  - Le Portel
+  - Saint-Étienne-au-Mont
+  - Saint-Léonard
+  - Saint-Martin-Boulogne
+  - Wimereux
+  - Wimille
+  population: 118261
+- !ruby/object:Hub
+  name: La Réunoin - CASUD
+  cities:
+  - Entre-Deux
+  - Saint-Joseph
+  - Saint-Philippe
+  - Le Tampon
+  population: 117691
+- !ruby/object:Hub
+  name: Communauté d'agglomération de la région nazairienne et de l'estuaire
+  cities:
+  - Saint-Nazaire
+  - Besné
+  - Donges
+  - La Chapelle-des-Marais
+  - Montoir-de-Bretagne
+  - Pornichet
+  - Saint-André-des-Eaux
+  - Saint-Joachim
+  - Saint-Malo-de-Guersac
+  - Trignac
+  population: 117470
+- !ruby/object:Hub
+  name: Centre Littoral
+  cities:
+  - Cayenne
+  - Macouria
+  - Matoury
+  - Montsinéry-Tonnegrande
+  - Rémire-Montjoly
+  - Roura
+  population: 117222
+- !ruby/object:Hub
+  name: Niortais
+  cities:
+  - Aiffres
+  - Amuré
+  - Arçais
+  - Beauvoir-sur-Niort
+  - Belleville
+  - Bessines
+  - Boisserolles
+  - Brûlain
+  - Chauray
+  - Coulon
+  - Échiré
+  - Épannes
+  - Fors
+  - Frontenay-Rohan-Rohan
+  - Germond-Rouvre
+  - Granzay-Gript
+  - Juscorps
+  - La Foye-Monjault
+  - La Rochénard
+  - Le Bourdet
+  - Le Vanneau-Irleau
+  - Magné
+  - Marigny
+  - Mauzé-sur-le-Mignon
+  - Niort
+  - Prahecq
+  - Priaires
+  - Prin-Deyrançon
+  - Prissé-la-Charrière
+  - Saint-Étienne-la-Cigogne
+  - Saint-Gelais
+  - Saint-Georges-de-Rex
+  - Saint-Hilaire-la-Palud
+  - Saint-Martin-de-Bernegoue
+  - Saint-Maxire
+  - Saint-Rémy
+  - Saint-Romans-des-Champs
+  - Saint-Symphorien
+  - Sansais
+  - Sciecq
+  - Thorigny-sur-le-Mignon
+  - Usseau
+  - Vallans
+  - Villiers-en-Plaine
+  - Vouillé
+  population: 116000
+- !ruby/object:Hub
+  name: Évry Centre Essonne
+  cities:
+  - Bondoufle
+  - Courcouronnes
+  - Évry
+  - Lisses
+  - Ris-Orangis
+  - Villabé
+  population: 114750
+- !ruby/object:Hub
+  name: Mantes-en-Yvelines
+  cities:
+  - Arnouville-lès-Mantes
+  - Auffreville-Brasseuil
+  - Boinville-en-Mantois
+  - Breuil-Bois-Robert
+  - Drocourt
+  - La Falaise
+  - Favrieux
+  - Flacourt
+  - Fontenay-Mauvoisin
+  - Fontenay-Saint-Père
+  - Goussonville
+  - Guernes
+  - Hargeville
+  - Jouy-Mauvoisin
+  - Jumeauville
+  - Méricourt
+  - Mousseaux-sur-Seine
+  - Perdreauville
+  - Rolleboise
+  - Sailly
+  - Saint-Martin-la-Garenne
+  - Soindres
+  - Le Tertre-Saint-Denis
+  - Vert
+  - Buchelay
+  - Follainville-Dennemont
+  - Guerville
+  - Porcheville
+  - Mézières-sur-Seine
+  - Épône
+  - Gargenville
+  - Magnanville
+  - Rosny-sur-Seine
+  - Mantes-la-Jolie
+  - Mantes-la-Ville
+  population: 112767
+- !ruby/object:Hub
+  name: Pays de Dreux
+  cities:
+  - Abondant
+  - Allainville
+  - Anet
+  - Ardelles
+  - Aunay-sous-Crécy
+  - Beauche
+  - Berchères-sur-Vesgre
+  - Bérou-la-Mulotière
+  - Boissy-en-Drouais
+  - Boncourt
+  - Le Boullay-les-Deux-Églises
+  - Le Boullay-Mivoye
+  - Le Boullay-Thierry
+  - Brezolles
+  - Broué
+  - Bû
+  - Châtaincourt
+  - Châteauneuf-en-Thymerais
+  - Charpont
+  - Crécy-Couvé
+  - Cherisy
+  - Crucey-Villages
+  - Dampierre-sur-Avre
+  - Dreux
+  - Écluzelles
+  - Escorpain
+  - Ézy-sur-Eure
+  - Favières
+  - Fessanvilliers-Mattanvilliers
+  - Fontaine-les-Ribouts
+  - Garancières-en-Drouais
+  - Garnay
+  - Germainville
+  - Gilles
+  - Guainville
+  - Ivry-la-Bataille
+  - La Chapelle-Forainvilliers
+  - La Chaussée-d'Ivry
+  - La Mancelière
+  - Laons
+  - Le Mesnil-Simon
+  - Les Châtelets
+  - Louvilliers-en-Drouais
+  - Luray
+  - Marville-Moutiers-Brûlé
+  - Maillebois
+  - Marchezais
+  - Mézières-en-Drouais
+  - Montreuil
+  - Mouettes
+  - Nonancourt
+  - Ormoy
+  - Ouerre
+  - Oulins
+  - Prudemanche
+  - Puiseux
+  - Revercourt
+  - Rouvres
+  - Saulnières
+  - Sainte-Gemme-Moronval
+  - Saint-Ange-et-Torçay
+  - Saint-Jean-de-Rebervilliers
+  - Saint-Lubin-de-Cravant
+  - Saint-Lubin-des-Joncherets
+  - Saint-Ouen-Marchefroy
+  - Saint-Rémy-sur-Avre
+  - Saint-Sauveur-Marville
+  - Saint-Maixme-Hauterive
+  - Saussay
+  - Serazereux
+  - Serville
+  - Sorel-Moussel
+  - Tréon
+  - Thimert-Gâtelles
+  - Tremblay-les-Villages
+  - Vernouillet
+  - Vert-en-Drouais
+  - Villemeux-sur-Eure
+  population: 112000
+- !ruby/object:Hub
+  name: Béziers Méditerranée
+  cities:
+  - Béziers
+  - Boujan-sur-Libron
+  - Corneilhan
+  - Espondeilhan
+  - Lieuran-lès-Béziers
+  - Lignan-sur-Orb
+  - Sauvian
+  - Sérignan
+  - Servian
+  - Valras-Plage
+  - Villeneuve-lès-Béziers
+  population: 110589
+- !ruby/object:Hub
+  name: Melun Val de Seine
+  cities:
+  - Commune
+  - Boissettes
+  - Boissise-la-Bertrand
+  - Boissise-le-Roi
+  - Dammarie-lès-Lys
+  - Livry-sur-Seine
+  - Le Mée-sur-Seine
+  - Melun
+  - Montereau-sur-le-Jard
+  - La Rochette
+  - Rubelles
+  - Saint-Germain-Laxis
+  - Seine-Port
+  - Vaux-le-Pénil
+  - Voisenon
+  population: 109367
+- !ruby/object:Hub
+  name: Var Estérel Méditerranée
+  cities:
+  - Les Adrets-de-l'Estérel
+  - Fréjus
+  - Puget-sur-Argens
+  - Roquebrune-sur-Argens
+  - Saint-Raphaël
+  population: 107547
+- !ruby/object:Hub
+  name: Le Grand Chalon
+  cities:
+  - Chalon-sur-Saône
+  - Allerey-sur-Saône
+  - Barizey
+  - Champforgeuil
+  - La Charmée
+  - Châtenoy-en-Bresse
+  - Châtenoy-le-Royal
+  - Crissey
+  - Demigny
+  - Dracy-le-Fort
+  - "Épervans"
+  - Farges-lès-Chalon
+  - Fontaines
+  - Fragnes
+  - Gergy
+  - Givry
+  - Jambles
+  - Lans
+  - Lessard-le-National
+  - La Loyère
+  - Lux
+  - Marnay
+  - Mellecey
+  - Mercurey
+  - Oslon
+  - Rully
+  - Saint-Denis-de-Vaux
+  - Saint-Désert
+  - Saint-Jean-de-Vaux
+  - Saint-Loup-de-Varennes
+  - Saint-Marcel
+  - Saint-Mard-de-Vaux
+  - Saint-Martin-sous-Montaigu
+  - Saint-Rémy
+  - Sassenay
+  - Sevrey
+  - Varennes-le-Grand
+  - Virey-le-Grand
+  population: 106224
+- !ruby/object:Hub
+  name: Cap Excellence
+  cities:
+  - Pointe-à-Pitre
+  - Les Abymes
+  - Baie-Mahault
+  population: 105575
+- !ruby/object:Hub
+  name: Grand Angoulême
+  cities:
+  - Angoulême
+  - La Couronne
+  - Fléac
+  - Gond-Pontouvre
+  - L'Isle-d'Espagnac
+  - Linars
+  - Magnac-sur-Touvre
+  - Mornac
+  - Nersac
+  - Puymoyen
+  - Ruelle-sur-Touvre
+  - Saint-Michel
+  - Saint-Saturnin
+  - Saint-Yrieix-sur-Charente
+  - Soyaux
+  - Touvre
+  population: 105421
+- !ruby/object:Hub
+  name: Carcassonne Agglo
+  cities:
+  - Aigues-Vives
+  - Alzonne
+  - Alairac
+  - Aragon
+  - Arquettes-en-Val
+  - Arzens
+  - Azille
+  - Bagnoles
+  - Bouilhonnac
+  - Berriac
+  - Cabrespine
+  - Castans
+  - Caunes-Minervois
+  - Caunettes-en-Val
+  - Carcassonne
+  - Caux-et-Sauzens
+  - Cavanac
+  - Cazilhac
+  - Citou
+  - Conques-sur-Orbiel
+  - Couffoulens
+  - Fajac-en-Val
+  - Fontiès-d'Aude
+  - La Redorte
+  - Labastide-en-Val
+  - Laure-Minervois
+  - Lavalette
+  - Lespinassière
+  - Leuc
+  - Limousis
+  - Malves-en-Minervois
+  - Mayronnes
+  - Mas-des-Cours
+  - Montlaur
+  - Montclar
+  - Montirat
+  - Montolieu
+  - Moussoulens
+  - Palaja
+  - Pépieux
+  - Peyriac-Minervois
+  - Pennautier
+  - Pezens
+  - Pradelles-en-Val
+  - Preixan
+  - Puichéric
+  - Raissac-sur-Lampy
+  - Rieux-en-Val
+  - Rieux-Minervois
+  - Rouffiac-d'Aude
+  - Roullens
+  - Rustiques
+  - Saint-Frichoux
+  - Saint-Martin-le-Vieil
+  - Sainte-Eulalie
+  - Sallèles-Cabardès
+  - Serviès-en-Val
+  - Taurize
+  - Trausse
+  - Trèbes
+  - Ventenac-Cabardès
+  - Verzeille
+  - Villalier
+  - Villedubert
+  - Villar-en-Val
+  - Villarzel-Cabardès
+  - Villegailhenc
+  - Villefloure
+  - Villegly
+  - Villemoustaussou
+  - Villeneuve-Minervois
+  - Villesèquelande
+  - Villetritouls
+  population: 105104
+- !ruby/object:Hub
+  name: Seine et Forêts
+  cities:
+  - Saint-Germain-en-Laye
+  - Aigremont
+  - Chambourcy
+  - L'Étang-la-Ville
+  - Fourqueux
+  - Louveciennes
+  - Le Pecq
+  - Le Port-Marly
+  - Mareil-Marly
+  - Marly-le-Roi
+  population: 105000
+- !ruby/object:Hub
+  name: Pays d'Aubagne et de l'Étoile
+  cities:
+  - Aubagne
+  - Auriol
+  - Belcodène
+  - Cadolive
+  - Cuges-les-Pins
+  - La Bouilladisse
+  - La Destrousse
+  - La Penne-sur-Huveaune
+  - Peypin
+  - Roquevaire
+  - Saint-Savournin
+  - Saint-Zacharie
+  population: 104003
+- !ruby/object:Hub
+  name: Agglomération Dracénoise
+  cities:
+  - Draguignan
+  - Ampus
+  - Bargemon
+  - Callas
+  - Châteaudouble
+  - Claviers
+  - Figanières
+  - Flayosc
+  - Montferrat
+  - La Motte
+  - Le Muy
+  - Les Arcs
+  - Lorgues
+  - Saint-Antonin-du-Var
+  - Salernes
+  - Sillans-la-Cascade
+  - Taradeau
+  - Trans-en-Provence
+  - Vidauban
+  population: 102060
+- !ruby/object:Hub
+  name: Colmar
+  cities:
+  - Colmar
+  - Herrlisheim-Près-Colmar
+  - Horbourg-Wihr
+  - Houssen
+  - Ingersheim
+  - Jebsheim
+  - Niedermorschwihr
+  - Sainte-Croix-en-Plaine
+  - Sundhoffen
+  - Turckheim
+  - Walbach
+  - Wettolsheim
+  - Wintzenheim
+  - Zimmerbach
+  - Totaux
+  population: 101917
+- !ruby/object:Hub
+  name: Arras
+  cities:
+  - Achicourt
+  - Acq
+  - Agny
+  - Anzin-Saint-Aubin
+  - Arras
+  - Athies
+  - Bailleul-Sir-Berthoult
+  - Beaumetz-lès-Loges
+  - Beaurains
+  - Boiry-Becquerelle
+  - Boisleux-au-Mont
+  - Boisleux-Saint-Marc
+  - Boyelles
+  - Dainville
+  - Ecurie
+  - Etrun
+  - Fampoux
+  - Farbus
+  - Feuchy
+  - Gavrelle
+  - Guémappe
+  - Hénin-sur-Cojeul
+  - Héninel
+  - Maroeuil
+  - Mercatel
+  - Monchy-le-Preux
+  - Mont-Saint-Éloi
+  - Neuville-Saint-Vaast
+  - Neuville-Vitasse
+  - Roclincourt
+  - Sainte-Catherine-lès-Arras
+  - Saint-Laurent-Blangy
+  - Saint-Martin-sur-Cojeul
+  - Saint-Nicolas-lez-Arras
+  - Thélus
+  - Tilloy-lès-Mofflaines
+  - Wailly
+  - Wancourt
+  - Willerval
+  population: 101879
+- !ruby/object:Hub
+  name: Les Portes de l'Essonne
+  cities:
+  - Athis-Mons
+  - Juvisy-sur-Orge
+  - Morangis
+  - Paray-Vieille-Poste
+  - Savigny-sur-Orge
+  population: 101650
+- !ruby/object:Hub
+  name: Roannais Agglomération
+  cities:
+  - Ambierle
+  - Arcon
+  - Changy
+  - Combre
+  - Commelle-Vernay
+  - Le Coteau
+  - Coutouvre
+  - Le Crozet
+  - Lentigny
+  - Mably
+  - Montagny
+  - Noailly
+  - Les Noës
+  - Parigny
+  - Ouches
+  - La Pacaudière
+  - Parigny
+  - Perreux
+  - Pouilly-les-Nonains
+  - Renaison
+  - Riorges
+  - Roanne
+  - Sail-les-Bains
+  - Saint-Alban-les-Eaux
+  - Saint-André-d'Apchon
+  - Saint-Bonnet-des-Quarts
+  - Saint-Forgeux-Lespinasse
+  - Saint-Germain-Lespinasse
+  - Saint-Haon-le-Châtel
+  - Saint-Haon-le-Vieux
+  - Saint-Jean-Saint-Maurice-sur-Loire
+  - Saint-Léger-sur-Roanne
+  - Saint-Martin-d'Estréaux
+  - Saint-Rirand
+  - Saint-Romain-la-Motte
+  - Saint-Vincent-de-Boisset
+  - Urbise
+  - Villemontais
+  - Villerest
+  - Vivans
+  population: 101405
+- !ruby/object:Hub
+  name: Communauté d'agglomération du Pays de Grasse
+  cities:
+  - Grasse
+  - Amirat
+  - Andon
+  - Auribeau-sur-Siagne
+  - Briançonnet
+  - Cabris
+  - Caille
+  - Collongues
+  - Escragnolles
+  - Gars
+  - Le Mas
+  - Mouans-Sartoux
+  - Les Mujouls
+  - Pégomas
+  - Peymeinade
+  - La Roquette-sur-Siagne
+  - Saint-Auban
+  - Saint-Cézaire-sur-Siagne
+  - Saint-Vallier-de-Thiey
+  - Séranon
+  - Spéracèdes
+  - Le Tignet
+  - Valderoure
+  population: 101301
+- !ruby/object:Hub
+  name: Alès Agglomération
+  cities:
+  - Alès
+  - Anduze
+  - Bagard
+  - Boisset-et-Gaujac
+  - Boucoiran-et-Nozières
+  - Bouquet
+  - Brignon
+  - Brouzet-lès-Alès
+  - Castelnau-Valence
+  - Corbès
+  - Cruviers-Lascours
+  - Deaux
+  - Euzet
+  - Générargues
+  - Lézan
+  - Martignargues
+  - Massanes
+  - Massillargues-Attuech
+  - Méjannes-lès-Alès
+  - Mialet
+  - Mons
+  - Monteils
+  - Ners
+  - Les Plans
+  - Ribaute-les-Tavernes
+  - Saint-Bonnet-de-Salendrinque
+  - Saint-Césaire-de-Gauzignan
+  - Saint-Christol-lès-Alès
+  - Sainte-Croix-de-Caderle
+  - Saint-Étienne-de-l'Olm
+  - Saint-Hilaire-de-Brethmas
+  - Saint-Hippolyte-de-Caton
+  - Saint-Jean-de-Ceyrargues
+  - Saint-Jean-de-Serres
+  - Saint-Jean-du-Gard
+  - Saint-Jean-du-Pin
+  - Saint-Just-et-Vacquières
+  - Saint-Martin-de-Valgalgues
+  - Saint-Maurice-de-Cazevieille
+  - Saint-Paul-la-Coste
+  - Saint-Privat-des-Vieux
+  - Saint-Sébastien-d'Aigrefeuille
+  - Salindres
+  - Servas
+  - Seynes
+  - Soustelle
+  - Thoiras
+  - Tornac
+  - Vabres
+  - Vézénobres
+  population: 100090
+- !ruby/object:Hub
+  name: Ouest Provence
+  cities:
+  - Istres
+  - Cornillon-Confoux
+  - Fos-sur-Mer
+  - Grans
+  - Miramas
+  - Port-Saint-Louis-du-Rhône
+  population: 97940
+- !ruby/object:Hub
+  name: Calaisis
+  cities:
+  - Calais
+  - Coquelles
+  - Coulogne
+  - Marck
+  - Sangatte
+  population: 97010
+- !ruby/object:Hub
+  name: Bourges Plus
+  cities:
+  - Bourges
+  - Annoix
+  - Arçay
+  - Berry-Bouy
+  - Lissay-Lochy
+  - La Chapelle-Saint-Ursin
+  - Marmagne
+  - Morthomiers
+  - Plaimpied-Givaudins
+  - Saint-Doulchard
+  - Saint-Germain-du-Puy
+  - Saint-Just
+  - Saint-Michel-de-Volangis
+  - Le Subdray
+  - Trouy
+  - Vorly
+  population: 96531
+- !ruby/object:Hub
+  name: Agglomération Belfortaine
+  cities:
+  - Belfort
+  - Andelnans
+  - Argiésans
+  - Banvillars
+  - Bavilliers
+  - Bermont
+  - Botans
+  - Bourogne
+  - Buc
+  - Charmois
+  - Châtenois-les-Forges
+  - Chèvremont
+  - Cravanche
+  - Danjoutin
+  - Denney
+  - Dorans
+  - "Éloie"
+  - Essert
+  - "Évette-Salbert"
+  - Meroux
+  - Méziré
+  - Morvillars
+  - Moval
+  - Offemont
+  - Pérouse
+  - Roppe
+  - Sermamagny
+  - Sevenans
+  - Trévenans
+  - Urcerey
+  - Valdoie
+  - Vétrigne
+  - Vézelois
+  population: 96011
+- !ruby/object:Hub
+  name: Laval Agglomération
+  cities:
+  - Laval
+  - Ahuillé
+  - Argentré
+  - Bonchamp-lès-Laval
+  - Châlons-du-Maine
+  - Changé
+  - La Chapelle-Anthenaise
+  - Entrammes
+  - Forcé
+  - L'Huisserie
+  - Louverné
+  - Louvigné
+  - Montflours
+  - Montigné-le-Brillant
+  - Nuillé-sur-Vicoin
+  - Parné-sur-Roc
+  - Saint-Berthevin
+  - Saint-Germain-le-Fouilloux
+  - Saint-Jean-sur-Mayenne
+  - Soulgé-sur-Ouette
+  population: 95838
+- !ruby/object:Hub
+  name: La Roche-sur-Yon Agglomération
+  cities:
+  - Aubigny
+  - Chaillé-sous-les-Ormeaux
+  - La Chaize-le-Vicomte
+  - Les Clouzeaux
+  - Dompierre-sur-Yon
+  - La Ferrière
+  - Fougeré
+  - Landeronde
+  - Mouilleron-le-Captif
+  - Nesmy
+  - La Roche-sur-Yon
+  - Saint-Florent-des-Bois
+  - Le Tablier
+  - Thorigny
+  - Venansault
+  population: 95638
+- !ruby/object:Hub
+  name: Bassin de Thau
+  cities:
+  - Balaruc-les-Bains
+  - Balaruc-le-Vieux
+  - Frontignan
+  - Gigean
+  - Marseillan
+  - Mireval
+  - Sète
+  - Vic-la-Gardiole
+  population: 95196
+- !ruby/object:Hub
+  name: Poissy–Achères–Conflans
+  cities:
+  - Achères
+  - Conflans-Sainte-Honorine
+  - Poissy
+  population: 92850
+- !ruby/object:Hub
+  name: Aéroport du Bourget
+  cities:
+  - Le Bourget
+  - Drancy
+  - Dugny
+  population: 92396
+- !ruby/object:Hub
+  name: Agglomération d'Agen
+  cities:
+  - Agen
+  - Le Passage d'Agen
+  - Bon-Encontre
+  - Boé
+  - Foulayronnes
+  - Layrac
+  - Colayrac-Saint-Cirq
+  - Astaffort
+  - Saint-Hilaire-de-Lusignan
+  - Lafox
+  - Bajamont
+  - Caudecoste
+  - Saint-Caprais-de-Lerm
+  - Sauvagnas
+  - Sauveterre-Saint-Denis
+  - Saint-Nicolas-de-la-Balerme
+  - Saint-Sixte
+  - Fals
+  - Cuq
+  population: 92042
+- !ruby/object:Hub
+  name: Agglomération de Blois
+  cities:
+  - Averdon
+  - Blois
+  - Candé-sur-Beuvron
+  - Cellettes
+  - Chailles
+  - Chambon-sur-Cisse
+  - Chaumont-sur-Loire
+  - Champigny-en-Beauce
+  - La Chapelle-Vendômoise
+  - La Chaussée-Saint-Victor
+  - Cheverny
+  - Chitenay
+  - Chouzy-sur-Cisse
+  - Cormeray
+  - Coulanges
+  - Cour-Cheverny
+  - Fossé
+  - Françay
+  - Herbault
+  - Lancôme
+  - Landes-le-Gaulois
+  - Marolles
+  - Menars
+  - Mesland
+  - Molineuf
+  - Monteaux
+  - Monthou-sur-Bièvre
+  - Les Montils
+  - Onzain
+  - Orchaise
+  - Rilly-sur-Loire
+  - Saint-Bohaire
+  - Saint-Cyr-du-Gault
+  - Saint-Denis-sur-Loire
+  - Saint-Étienne-des-Guérets
+  - Saint-Gervais-la-Forêt
+  - Saint-Lubin-en-Vergonnois
+  - Saint-Sulpice-de-Pommeray
+  - Sambin
+  - Santenay
+  - Seillac
+  - Seur
+  - Valaire
+  - Veuves
+  - Villebarou
+  - Villefrancœur
+  - Villerbon
+  - Vineuil
+  population: 88270
+- !ruby/object:Hub
+  name: Quimper Communauté
+  cities:
+  - Ergué-Gabéric
+  - Guengat
+  - Plogonnec
+  - Plomelin
+  - Plonéis
+  - Pluguffan
+  - Locronan
+  - Quimper
+  population: 86705
+- !ruby/object:Hub
+  name: Roissy Porte de France
+  cities:
+  - Bouqueval
+  - Chennevières-lès-Louvres
+  - Écouen
+  - Épiais-lès-Louvres
+  - Fontenay-en-Parisis
+  - Fosses
+  - Goussainville
+  - Le Mesnil-Aubry
+  - Le Plessis-Gassot
+  - Le Thillay
+  - Louvres
+  - Marly-la-Ville
+  - Puiseux-en-France
+  - Roissy-en-France
+  - Saint-Witz
+  - Survilliers
+  - Vaudherland
+  - Vémars
+  - Villeron
+  population: 85176
+- !ruby/object:Hub
+  name: Annemasse - Les Voirons Agglomération
+  cities:
+  - Annemasse
+  - Ambilly
+  - Bonne
+  - Cranves-Sales
+  - "Étrembières"
+  - Gaillard
+  - Juvigny
+  - Lucinges
+  - Machilly
+  - Saint-Cergues
+  - Vétraz-Monthoux
+  - Ville-la-Grand
+  population: 84003
+- !ruby/object:Hub
+  name: Pays de Meaux
+  cities:
+  - Meaux
+  - Barcy
+  - Chambry
+  - Chauconin-Neufmontiers
+  - Crégy-lès-Meaux
+  - Fublaines
+  - Germigny-l'Évêque
+  - Isles-lès-Villenoy
+  - Mareuil-lès-Meaux
+  - Montceaux-lès-Meaux
+  - Nanteuil-lès-Meaux
+  - Penchard
+  - Poincy
+  - Trilbardou
+  - Trilport
+  - Varreddes
+  - Vignely
+  - Villenoy
+  population: 82772
+- !ruby/object:Hub
+  name: Cherbourg
+  cities:
+  - Cherbourg-Octeville
+  - "Équeurdreville-Hainneville"
+  - La Glacerie
+  - Querqueville
+  - Tourlaville
+  population: 81690
+- !ruby/object:Hub
+  name: Grand Évreux
+  cities:
+  - "Évreux"
+  - Angerville-la-Campagne
+  - Arnières-sur-Iton
+  - Aviron
+  - Les Baux-Sainte-Croix
+  - Boncourt
+  - Le Boulay-Morin
+  - Caugé
+  - La Chapelle-du-Bois-des-Faulx
+  - Cierrey
+  - Dardez
+  - "Émalleville"
+  - Fauville
+  - Gauciel
+  - Gauville-la-Campagne
+  - Gravigny
+  - Guichainville
+  - Huest
+  - Irreville
+  - Le Mesnil-Fuguet
+  - Miserey
+  - Normanville
+  - Parville
+  - Le Plessis-Grohan
+  - Reuilly
+  - Sacquenville
+  - Saint-Germain-des-Angles
+  - Saint-Luc
+  - Saint-Martin-la-Campagne
+  - Saint-Sébastien-de-Morsent
+  - Saint-Vigor
+  - Sassey
+  - Tourneville
+  - La Trinité
+  - Le Val-David
+  - Les Ventes
+  - Le Vieil-Évreux
+  population: 81614
+- !ruby/object:Hub
+  name: Épinal
+  cities:
+  - Golbey
+  - Aydoilles
+  - Badménil-aux-Bois
+  - Bayecourt
+  - Chantraine
+  - Châtel-sur-Moselle
+  - Chaumousey
+  - Chavelot
+  - Darnieulles
+  - Deyvillers
+  - Dignonville
+  - Dogneville
+  - Domèvre-sur-Avière
+  - Domèvre-sur-Durbion
+  - Dounoux
+  - "Épinal"
+  - Fomerey
+  - Frizon
+  - Gigney
+  - Girancourt
+  - Girmont
+  - Igney
+  - Jeuxey
+  - Les Forges
+  - Longchamp
+  - Mazeley
+  - Nomexy
+  - Oncourt
+  - Pallegney
+  - Renauvoid
+  - Sanchey
+  - Thaon-les-Vosges
+  - Uxegney
+  - Uzemain
+  - Vaudéville
+  - Vaxoncourt
+  - Villoncourt
+  - Zincourt
+  population: 81237
+- !ruby/object:Hub
+  name: Châtillon-Montrouge
+  cities:
+  - Châtillon
+  - Montrouge
+  population: 81216
+- !ruby/object:Hub
+  name: Arles-Crau-Camargue-Montagnette
+  cities:
+  - Arles
+  - Boulbon
+  - Saintes-Maries-de-la-Mer
+  - Saint-Martin-de-Crau
+  - Saint-Pierre-de-Mézoargues
+  - Tarascon
+  population: 81139
+- !ruby/object:Hub
+  name: Agglomération du Choletais
+  cities:
+  - Cholet
+  - Chanteloup-les-Bois
+  - Le May-sur-Èvre
+  - Mazières-en-Mauges
+  - Nuaillé
+  - La Romagne
+  - Saint-Christophe-du-Bois
+  - Saint-Léger-sous-Cholet
+  - La Séguinière
+  - La Tessoualle
+  - Toutlemonde
+  - Trémentines
+  - Vezins
+  population: 80416
+- !ruby/object:Hub
+  name: Communauté d'agglomération de Brive
+  cities:
+  - Allassac
+  - Brive-la-Gaillarde
+  - La Chapelle-aux-Brocs
+  - Cosnac
+  - Cublac
+  - Dampniat
+  - Malemort-sur-Corrèze
+  - Mansac
+  - Noailles
+  - Sainte-Féréole
+  - Saint-Viance
+  - Turenne
+  - Ussac
+  - Varetz
+  - Venarsal
+  - Voutezac
+  population: 80253
+- !ruby/object:Hub
+  name: Agglomération de l'Albigeois
+  cities:
+  - Saint-Juéry
+  - Albi
+  - Arthès
+  - Cambon
+  - Carlus
+  - Castelnau-de-Lévis
+  - Cunac
+  - Dénat
+  - Fréjairolles
+  - Labastide-Dénat
+  - Lescure-d'Albigeois
+  - Marssac-sur-Tarn
+  - Puygouzon
+  - Rouffiac
+  - Saliès
+  - Le Sequestre
+  - Terssac
+  population: 80121
+- !ruby/object:Hub
+  name: Castres - Mazamet
+  cities:
+  - Castres
+  - Aiguefonde
+  - Aussillon
+  - Boissezon
+  - Caucalières
+  - Labruguière
+  - Lagarrigue
+  - Mazamet
+  - Navès
+  - Noailhac
+  - Payrin-Augmontel
+  - Pont-de-Larn
+  - Le Rialet
+  - Saint-Amans-Soult
+  - Valdurenque
+  - Le Vintrou
+  population: 79849
+- !ruby/object:Hub
+  name: Saint-Malo
+  cities:
+  - Cancale
+  - Châteauneuf-d'Ille-et-Vilaine
+  - La Fresnais
+  - La Gouesnière
+  - Hirel
+  - Lillemer
+  - Miniac-Morvan
+  - Plerguer
+  - Saint-Benoît-des-Ondes
+  - Saint-Coulomb
+  - Saint-Guinoux
+  - Saint-Jouan-des-Guérets
+  - Saint-Malo
+  - Saint-Méloir-des-Ondes
+  - Saint-Père
+  - Saint-Suliac
+  - Le Tronchet
+  - La Ville-ès-Nonais
+  population: 79697
+- !ruby/object:Hub
+  name: Agglomération du Beauvaisis
+  cities:
+  - Allonne
+  - Auneuil
+  - Auteuil
+  - Beauvais
+  - Berneuil-en-Bray
+  - Bonlier
+  - Fontaine-Saint-Lucien
+  - Fouquenies
+  - Frocourt
+  - Goincourt
+  - Guignecourt
+  - Herchies
+  - Juvignies
+  - Maisoncelle-Saint-Pierre
+  - Aux-Marais
+  - Milly-sur-Thérain
+  - Le Mont-Saint-Adrien
+  - Nivillers
+  - Pierrefitte-en-Beauvaisis
+  - Rainvillers
+  - Rochy-Condé
+  - Saint-Germain-la-Poterie
+  - Saint-Léger-en-Bray
+  - Saint-Martin-le-Nœud
+  - Saint-Paul
+  - Savignies
+  - Therdonne
+  - Tillé
+  - Troissereux
+  - Verderel-lès-Sauqueuse
+  - Warluis
+  population: 79342
+- !ruby/object:Hub
+  name: Portes de France-Thionville
+  cities:
+  - Thionville
+  - Angevillers
+  - Basse-Ham
+  - Fontoy
+  - Havange
+  - Illange
+  - Kuntzig
+  - Lommerange
+  - Manom
+  - Rochonvillers
+  - Terville
+  - Tressange
+  - Yutz
+  population: 78514
+- !ruby/object:Hub
+  name: Grand Tarbes
+  cities:
+  - Angos
+  - Barbazan-Debat
+  - Aureilhan
+  - Bordères-sur-l'Échez
+  - Bours
+  - Chis
+  - Ibos
+  - Laloubère
+  - Odos
+  - Orleix
+  - Salles-Adour
+  - Sarrouilles
+  - Séméac
+  - Soues
+  - Tarbes
+  population: 78493
+- !ruby/object:Hub
+  name: Villefranche-Beaujolais-Saône
+  cities:
+  - Villefranche-sur-Saône
+  - Arnas
+  - Blacé
+  - Cogny
+  - Denicé
+  - Gleizé
+  - Jarnioux
+  - Jassans-Riottier
+  - Lacenas
+  - Le Perréon
+  - Liergues
+  - Limas
+  - Montmelas-Saint-Sorlin
+  - Rivolet
+  - Saint-Cyr-le-Chatoux
+  - Saint-Étienne-des-Oullières
+  - Saint-Georges-de-Reneins
+  - Saint-Julien
+  - Salles-Arbuissonnas-en-Beaujolais
+  - Vaux-en-Beaujolais
+  - Ville-sur-Jarnioux
+  population: 76593
+- !ruby/object:Hub
+  name: Pays Ajaccien
+  cities:
+  - Afa
+  - Ajaccio
+  - Alata
+  - Appietto
+  - Cuttoli-Corticchiato
+  - Peri
+  - Sarrola-Carcopino
+  - Tavaco
+  - Valle-di-Mezzana
+  - Villanova
+  population: 76562
+- !ruby/object:Hub
+  name: Marne et Chantereine
+  cities:
+  - Chelles
+  - Brou-sur-Chantereine
+  - Courtry
+  - Vaires-sur-Marne
+  population: 76233
+- !ruby/object:Hub
+  name: Agglomération de Cambrai
+  cities:
+  - Cambrai
+  - Abancourt
+  - Anneux
+  - Aubencheul-au-Bac
+  - Awoingt
+  - Bantigny
+  - Blécourt
+  - Boursies
+  - Cagnoncles
+  - Cantaing-sur-Escaut
+  - Cauroir
+  - Crèvecœur-sur-l'Escaut
+  - Cuvillers
+  - Doignies
+  - Escaudœuvres
+  - Esnes
+  - Estrun
+  - Eswars
+  - Flesquières
+  - Fontaine-Notre-Dame
+  - Fressies
+  - Haynecourt
+  - Hem-Lenglet
+  - Honnecourt-sur-Escaut
+  - Iwuy
+  - Lesdain
+  - Marcoing
+  - Mœuvres
+  - Naves
+  - Neuville-Saint-Rémy
+  - Niergnies
+  - Noyelles-sur-Escaut
+  - Paillencourt
+  - Proville
+  - Raillencourt-Sainte-Olle
+  - Ramillies
+  - Ribécourt-la-Tour
+  - Rieux-en-Cambrésis
+  - Les Rues-des-Vignes
+  - Rumilly-en-Cambrésis
+  - Sailly-lez-Cambrai
+  - Sancourt
+  - Séranvillers-Forenville
+  - Thun-l'Évêque
+  - Thun-Saint-Martin
+  - Tilloy-lez-Cambrai
+  - Villers-en-Cauchies
+  - Villers-Guislain
+  - Wambaix
+  population: 76128
+- !ruby/object:Hub
+  name: Agglomération castelroussine
+  cities:
+  - Châteauroux
+  - Ardentes
+  - Arthon
+  - Coings
+  - Déols
+  - Diors
+  - "Étrechet"
+  - Jeu-les-Bois
+  - Luant
+  - Mâron
+  - Montierchaume
+  - Le Poinçonnet
+  - Saint-Maur
+  - Sassierges-Saint-Germain
+  - Villers-les-Ormes
+  population: 75094
+- !ruby/object:Hub
+  name: Agglomération de Saint-Quentin
+  cities:
+  - Saint-Quentin
+  - Castres
+  - Contescourt
+  - Essigny-le-Petit
+  - Fayet
+  - Fieulaine
+  - Fonsomme
+  - Fontaine-Notre-Dame
+  - Gauchy
+  - Grugies
+  - Harly
+  - Homblières
+  - Lesdins
+  - Marcy
+  - Mesnil-Saint-Laurent
+  - Morcourt
+  - Neuville-Saint-Amand
+  - Omissy
+  - Remaucourt
+  - Rouvroy
+  population: 74676
+- !ruby/object:Hub
+  name: Région de Compiègne
+  cities:
+  - Compiègne
+  - Lacroix-Saint-Ouen
+  - "Choisy-au-Bac"
+  - Clairoix
+  - Jaux
+  - Margny-lès-Compiègne
+  - Le Meux
+  - Saint-Sauveur
+  - Venette
+  population: 74000
+- !ruby/object:Hub
+  name: Communauté d'agglomération de Châlons-en-Champagne
+  cities:
+  - Châlons-en-Champagne
+  - Aigny
+  - Aulnay-sur-Marne
+  - Bussy-Lettrée
+  - Champigneul-Champagne
+  - Cheniers
+  - Cherville
+  - Compertrix
+  - Condé-sur-Marne
+  - Coolus
+  - Dommartin-Lettrée
+  - L'Épine
+  - Fagnières
+  - Les Grandes-Loges
+  - Haussimont
+  - Isse
+  - Jâlons
+  - Juvigny
+  - Lenharrée
+  - Matougues
+  - Moncetz-Longevas
+  - Montépreux
+  - Recy
+  - Saint-Étienne-au-Temple
+  - Saint-Gibrien
+  - Saint-Martin-sur-le-Pré
+  - Saint-Memmie
+  - Saint-Pierre
+  - Sarry
+  - Sommesous
+  - Soudé
+  - Soudron
+  - Thibie
+  - Vassimont-et-Chapelaine
+  - Vatry
+  - La Veuve
+  - Villers-le-Château
+  - Vraux
+  population: 72902
+- !ruby/object:Hub
+  name: Agglomération creilloise
+  cities:
+  - Creil
+  - Nogent-sur-Oise
+  - Montataire
+  - Villers-Saint-Paul
+  population: 72000
+- !ruby/object:Hub
+  name: Agglomération de Bourg-en-Bresse
+  cities:
+  - Bourg-en-Bresse
+  - Buellas
+  - Dompierre-sur-Veyle
+  - Jasseron
+  - Lent
+  - Montcet
+  - Montracol
+  - Péronnas
+  - Polliat
+  - Saint-André-sur-Vieux-Jonc
+  - Saint-Denis-lès-Bourg
+  - Saint-Rémy
+  - Servas
+  - Vandeins
+  - Viriat
+  population: 71274
+- !ruby/object:Hub
+  name: Grand Montauban
+  cities:
+  - Montauban
+  - Albefeuille-Lagarde
+  - Bressols
+  - Corbarieu
+  - Lamothe-Capdeville
+  - Montbeton
+  - Saint-Nauphary
+  - Villemade
+  population: 69394
+- !ruby/object:Hub
+  name: Pays de Martigues (CAPM)
+  cities:
+  - Martigues
+  - Port-de-Bouc
+  - Saint-Mitre-les-Remparts
+  population: 69185
+- !ruby/object:Hub
+  name: Agglomération de Nevers
+  cities:
+  - Challuy
+  - Coulanges-les-Nevers
+  - Fourchambault
+  - Garchizy
+  - Germigny-sur-Loire
+  - Gimouille
+  - Marzy
+  - Nevers
+  - Pougues-les-Eaux
+  - Saincaize-Meauce
+  - Sermoise-sur-Loire
+  - Varennes-Vauzelles
+  population: 68734
+- !ruby/object:Hub
+  name: Agglomération Seine-Essonne
+  cities:
+  - Corbeil-Essonnes
+  - Étiolles
+  - Le Coudray-Montceaux
+  - Saint-Germain-lès-Corbeil
+  - Soisy-sur-Seine
+  population: 65089
+- !ruby/object:Hub
+  name: Vallée de la Marne
+  cities:
+  - Le Perreux-sur-Marne
+  - Nogent-sur-Marne
+  population: 65009
+- !ruby/object:Hub
+  name: Communauté de l'Auxerrois
+  cities:
+  - Auxerre
+  - Appoigny
+  - Augy
+  - Bleigny-le-Carreau
+  - Branches
+  - Champs-sur-Yonne
+  - Charbuy
+  - Chevannes
+  - Chitry
+  - Gurgy
+  - Lindry
+  - Monéteau
+  - Montigny-la-Resle
+  - Perrigny
+  - Quenne
+  - Saint-Bris-le-Vineux
+  - Saint-Georges-sur-Baulche
+  - Vallan
+  - Venoy
+  - Villefargeau
+  - Villeneuve-Saint-Salves
+  population: 63877
+- !ruby/object:Hub
+  name: Mâconnais - Val de Saône
+  cities:
+  - Mâcon
+  - Azé
+  - Berzé-la-Ville
+  - Bussières
+  - Charbonnières
+  - Charnay-lès-Mâcon
+  - Chevagny-les-Chevrières
+  - Davayé
+  - Fuissé
+  - Hurigny
+  - Igé
+  - Laizé
+  - Milly-Lamartine
+  - Péronne
+  - Prissé
+  - La Roche-Vineuse
+  - Saint-Laurent-sur-Saône
+  - Saint-Martin-Belle-Roche
+  - Saint-Maurice-de-Satonnay
+  - La Salle
+  - Sancé
+  - Senozan
+  - Sologny
+  - Solutré-Pouilly
+  - Vergisson
+  - Verzé
+  population: 61808
+- !ruby/object:Hub
+  name: Communauté d'agglomération montluçonnaise
+  cities:
+  - Désertines
+  - Domérat
+  - Lamaids
+  - Lavault-Sainte-Anne
+  - Lignerolles
+  - Montluçon
+  - Prémilhat
+  - Quinssaines
+  - Saint-Victor
+  - Teillet-Argenty
+  population: 59944
+- !ruby/object:Hub
+  name: Les Lacs de l'Essonne
+  cities:
+  - Grigny
+  - Viry-Châtillon
+  population: 58683
+- !ruby/object:Hub
+  name: Ouest Parisien
+  cities:
+  - Plaisir
+  - Les Clayes-sous-Bois
+  - Villepreux.
+  population: 58623
+- !ruby/object:Hub
+  name: Brie Francilienne
+  cities:
+  - Roissy-en-Brie
+  - Pontault-Combault
+  population: 57882
+- !ruby/object:Hub
+  name: Agglomération de Bastia
+  cities:
+  - Bastia
+  - Furiani
+  - Ville-di-Pietrabugno
+  - San-Martino-di-Lota
+  - Santa-Maria-di-Lota
+  population: 55731
+- !ruby/object:Hub
+  name: Le Marsan Agglomération
+  cities:
+  - Mont-de-Marsan
+  - Benquet
+  - Bostens
+  - Bougue
+  - Bretagne-de-Marsan
+  - Campagne
+  - Campet-et-Lamolère
+  - Gaillères
+  - Geloux
+  - Laglorieuse
+  - Lucbardez-et-Bargues
+  - Mazerolles
+  - Pouydesseaux
+  - Saint-Avit
+  - Saint-Martin-d'Oney
+  - Saint-Perdon
+  - Saint-Pierre-du-Mont
+  - Uchacq-et-Parentis
+  population: 53526
+- !ruby/object:Hub
+  name: Communauté d'agglomération du Pays Châtelleraudais
+  cities:
+  - Archigny
+  - Availles-en-Châtellerault
+  - Bellefonds
+  - Bonneuil-Matours
+  - Cenon-sur-Vienne
+  - Châtellerault
+  - Colombiers
+  - Monthoiron
+  - Naintré
+  - Saint-Sauveur
+  - Senillé
+  - Thuré
+  - Vouneuil-sur-Vienne
+  population: 53005
+- !ruby/object:Hub
+  name: Communauté d'agglomération Montélimar-Sésame
+  cities:
+  - Allan
+  - Ancône
+  - La Bâtie-Rolland
+  - Châteauneuf-du-Rhône
+  - La Coucourde
+  - Espeluche
+  - Montboucher-sur-Jabron
+  - Montélimar
+  - Portes-en-Valdaine
+  - Puygiron
+  - Rochefort-en-Valdaine
+  - Savasse
+  - Saulce-sur-Rhône
+  - La Touche
+  - Les Tourrettes
+  population: 51668
+- !ruby/object:Hub
+  name: Dieppe maritime
+  cities:
+  - Offranville
+  - Ancourt
+  - Arques-la-Bataille
+  - Aubermesnil-Beaumais
+  - Colmesnil-Manneville
+  - Dieppe
+  - Grèges
+  - Hautot-sur-Mer
+  - Martigny
+  - Martin-Église
+  - Rouxmesnil-Bouteilles
+  - Saint-Aubin-sur-Scie
+  - Sainte-Marguerite-sur-Mer
+  - Sauqueville
+  - Tourville-sur-Arques
+  - Varengeville-sur-Mer
+  population: 50990
+- !ruby/object:Hub
+  name: Région de Haguenau
+  cities:
+  - Batzendorf
+  - Berstheim
+  - Dauendorf
+  - Haguenau
+  - Hochstett
+  - Huttendorf
+  - Morschwiller
+  - Niederschaeffolsheim
+  - Ohlungen
+  - Schweighouse-sur-Moder
+  - Uhlwiller
+  - Wahlenheim
+  - Wintershouse
+  - Wittersheim
+  population: 50000
+- !ruby/object:Hub
+  name: Agglomération du Gapençais
+  cities:
+  - Gap
+  - La Freissinouse
+  - Pelleautier
+  population: 41866
+- !ruby/object:Hub
+  name: La Réunion - CIREST
+  cities:
+  - Bras-Panon
+  - La Plaine-des-Palmistes
+  - Saint-André
+  - Saint-Benoît
+  - Sainte-Rose
+  - Salazie
+  population: 11404
+- !ruby/object:Hub
+  name: Valence-Romans Sud Rhône-Alpes
+  cities:
+  - Alixan
+  - Barbières
+  - La Baume-Cornillane
+  - La Baume-d'Hostun
+  - Beaumont-lès-Valence
+  - Beauregard-Baret
+  - Beauvallon
+  - Bésayes
+  - Bourg-de-Péage
+  - Bourg-lès-Valence
+  - Chabeuil
+  - Le Chalon
+  - Charpey
+  - Châteauneuf-sur-Isère
+  - Châtillon-Saint-Jean
+  - Chatuzange-le-Goubet
+  - Clérieux
+  - Crépol
+  - "Étoile-sur-Rhône"
+  - Eymeux
+  - Génissieux
+  - Geyssans
+  - Granges-les-Beaumont
+  - Hostun
+  - Jaillans
+  - Malissard
+  - Marches
+  - Miribel
+  - Montéléger
+  - Montélier
+  - Montmeyran
+  - Montmiral
+  - Montrigaud
+  - Mours-Saint-Eusèbe
+  - Ourches
+  - Parnans
+  - Peyrins
+  - Portes-lès-Valence
+  - Rochefort-Samson
+  - Romans-sur-Isère
+  - Saint-Bardoux
+  - Saint-Bonnet-de-Valclérieux
+  - Saint-Christophe-et-le-Laris
+  - Saint-Laurent-d'Onay
+  - Saint-Marcel-lès-Valence
+  - Saint-Michel-sur-Savasse
+  - Saint-Paul-lès-Romans
+  - Saint-Vincent-la-Commanderie
+  - Triors
+  - Upie
+  - Valence
+  population: 211506
+- !ruby/object:Hub
+  name: TCO
+  cities:
+  - Le Port
+  - La Possession
+  - Saint-Leu
+  - Saint-Paul
+  - Trois-Bassins
+  population: 214106
+- !ruby/object:Hub
+  name: Communauté d'agglomération Seine Amont
+  cities:
+  - Choisy-le-Roi
+  - Ivry-sur-Seine
+  - Vitry-sur-Seine
+  population: 180371
+- !ruby/object:Hub
+  name: Charleville-Mézières / Sedan
+  cities:
+  - Aiglemont
+  - Arreux
+  - Les Ayvelles
+  - Balaives-et-Butz
+  - Balan
+  - Bazeilles
+  - Belval
+  - Bosseval-et-Briancourt
+  - Boutancourt
+  - Chalandry-Elaire
+  - La Chapelle
+  - Charleville-Mézières
+  - Chéhéry
+  - Cheveuges
+  - Cliron
+  - Daigny
+  - Damouzy
+  - Dom-le-Mesnil
+  - Donchery
+  - Élan
+  - Étrépigny
+  - Fagnon
+  - Fleigneux
+  - Flize
+  - Floing
+  - Francheval
+  - La Francheville
+  - Gernelle
+  - Gespunsart
+  - Givonne
+  - Glaire
+  - La Grandville
+  - Hannogne-Saint-Martin
+  - Haudrecy
+  - Houldizy
+  - Illy
+  - Issancourt-et-Rumel
+  - Lumes
+  - La Moncelle
+  - Montcy-Notre-Dame
+  - Neufmanil
+  - Nouvion-sur-Meuse
+  - Nouzonville
+  - Noyers-Pont-Maugis
+  - Pouru-aux-Bois
+  - Pouru-Saint-Remy
+  - Prix-lès-Mézières
+  - Rubecourt-et-Lamecourt
+  - Saint-Aignan
+  - Saint-Laurent
+  - Saint-Menges
+  - Sapogne-et-Feuchères
+  - Sécheval
+  - Sedan
+  - Thelonne
+  - Tournes
+  - Villers-Cernay
+  - Villers-Semeuse
+  - Villers-sur-Bar
+  - Ville-sur-Lumes
+  - Vivier-au-Court
+  - Vrigne-aux-Bois
+  - Vrigne-Meuse
+  - Wadelincourt
+  - Warcq
+  population: 130000
+- !ruby/object:Hub
+  name: Vexin Centre Seine Aval
+  cities:
+  - Bouafle
+  - Brueil-en-Vexin
+  - Ecquevilly
+  - Évecquemont
+  - Flins-sur-Seine
+  - Gaillon-sur-Montcient
+  - Hardricourt
+  - Jambville
+  - Juziers
+  - Lainville-en-Vexin
+  - Les Mureaux
+  - Mézy-sur-Seine
+  - Meulan-en-Yvelines
+  - Montalet-le-Bois
+  - Oinville-sur-Montcient
+  - Tessancourt-sur-Aubette
+  - Vaux-sur-Seine
+  population: 66896
