@@ -37,5 +37,5 @@ YAML.load(open('data/french_hubs.yml')).each do |hub|
 end
 
 File.open('data/github_users_per_city.yml', 'w') do |f|
-  f.write Hash[$cities.sort_by {|_key, value| -value }].to_yaml
+  f.write Hash[$cities.sort_by {|_key, value| value.is_a?(Fixnum) ? -value : Float::INFINITY }].to_yaml
 end
