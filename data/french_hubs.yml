@@ -645,7 +645,7 @@
   - Villetaneuse
   population: 407007
 - !ruby/object:Hub
-  name: pays d'Aix
+  name: Pays d'Aix
   cities:
   - Aix-en-Provence
   - Beaurecueil
@@ -1066,7 +1066,7 @@
   - Saint-Martin-du-Manoir
   population: 238151
 - !ruby/object:Hub
-  name: Communauté d'agglomération Caen la Mer
+  name: Caen la Mer
   cities:
   - Authie
   - Bénouville
@@ -1349,7 +1349,7 @@
   - Sainte-Suzanne
   population: 190624
 - !ruby/object:Hub
-  name: Communauté d'agglomération de Valenciennes Métropole
+  name: Valenciennes Métropole
   cities:
   - Valenciennes
   - Anzin
@@ -1429,7 +1429,7 @@
   - Villeneuve-lès-Avignon
   population: 182763
 - !ruby/object:Hub
-  name: communauté d'agglomération des Hauts-de-Bièvre
+  name: Hauts-de-Bièvre
   cities:
   - Antony
   - Bourg-la-Reine
@@ -1582,7 +1582,7 @@
   - Vorges-les-Pins
   population: 176339
 - !ruby/object:Hub
-  name: Communauté de communes de la Boucle de la Seine
+  name: Boucle de la Seine
   cities:
   - Carrières-sur-Seine
   - Chatou
@@ -1860,7 +1860,7 @@
   - Villiers-sur-Orge
   population: 133177
 - !ruby/object:Hub
-  name: Communauté d'agglomération Argenteuil-Bezons
+  name: Argenteuil-Bezons
   cities:
   - Argenteuil
   - Bezons
@@ -2158,7 +2158,7 @@
   - Le Tampon
   population: 117691
 - !ruby/object:Hub
-  name: Communauté d'agglomération de la région nazairienne et de l'estuaire
+  name: Région Nazairienne
   cities:
   - Saint-Nazaire
   - Besné
@@ -2719,7 +2719,7 @@
   - Vivans
   population: 101405
 - !ruby/object:Hub
-  name: Communauté d'agglomération du Pays de Grasse
+  name: Pays de Grasse
   cities:
   - Grasse
   - Amirat
@@ -3218,7 +3218,7 @@
   - Vezins
   population: 80416
 - !ruby/object:Hub
-  name: Communauté d'agglomération de Brive
+  name: Agglomération de Brive
   cities:
   - Allassac
   - Brive-la-Gaillarde
@@ -3528,7 +3528,7 @@
   - Venette
   population: 74000
 - !ruby/object:Hub
-  name: Communauté d'agglomération de Châlons-en-Champagne
+  name: Agglomération de Châlons-en-Champagne
   cities:
   - Châlons-en-Champagne
   - Aigny
@@ -3702,7 +3702,7 @@
   - Verzé
   population: 61808
 - !ruby/object:Hub
-  name: Communauté d'agglomération montluçonnaise
+  name: Agglomération montluçonnaise
   cities:
   - Désertines
   - Domérat
@@ -3766,7 +3766,7 @@
   - Uchacq-et-Parentis
   population: 53526
 - !ruby/object:Hub
-  name: Communauté d'agglomération du Pays Châtelleraudais
+  name: Pays Châtelleraudais
   cities:
   - Archigny
   - Availles-en-Châtellerault
@@ -3783,7 +3783,7 @@
   - Vouneuil-sur-Vienne
   population: 53005
 - !ruby/object:Hub
-  name: Communauté d'agglomération Montélimar-Sésame
+  name: Montélimar-Sésame
   cities:
   - Allan
   - Ancône
@@ -3921,7 +3921,7 @@
   - Trois-Bassins
   population: 214106
 - !ruby/object:Hub
-  name: Communauté d'agglomération Seine Amont
+  name: Seine Amont
   cities:
   - Choisy-le-Roi
   - Ivry-sur-Seine

@@ -6,15 +6,14 @@ Nantes: 632
 Lille: 544
 Bordeaux: 534
 Grenoble: 465
-Montpellier: 42
+Montpellier: 424
 Rennes: 382
 Strasbourg: 295
 Marseille: 270
-Le Port: 193
 Nice: 190
-Brest: 163
 Nancy: 151
 Aix-en-Provence: 115
+Brest: 107  # Corrected manually, as there is Brest, Belarus
 Clermont-Ferrand: 95
 Le Mans: 88
 Rouen: 85
@@ -47,7 +46,6 @@ Roubaix: 36
 Chambéry: 34
 Amiens: 31
 Montreuil: 30
-Mâcon: 30
 "Évry": 30
 Belfort: 28
 Moulineaux: 23
@@ -154,6 +152,7 @@ Guyancourt: 4
 Roanne: 4
 Fréjus: 4
 Feldkirch: 4
+Mâcon: 4  # Different from Macon, GA
 Saint-Sauveur: 4
 Croix: 4
 Douai: 4
@@ -1383,6 +1382,7 @@ La Jarne: 0
 Saint-Étienne-de-Tinée: 0
 La Jarrie: 0
 Lagord: 0
+Le Port: 0
 Marsilly: 0
 Montroy: 0
 Nieul-sur-Mer: 0

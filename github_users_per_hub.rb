@@ -32,9 +32,9 @@ YAML.load(open('data/french_hubs.yml')).each do |hub|
 end
 
 def color(hub)
-  if hub.ratio >= 0.5
+  if hub.ratio.round(2) >= 0.5
     :green
-  elsif hub.ratio >= 0.1
+  elsif hub.ratio.round(2) >= 0.1
     :yellow
   else
     :red
