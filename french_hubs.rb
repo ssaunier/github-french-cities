@@ -1,5 +1,7 @@
 # Usage: ruby -Ilib french_hubs.rb
 
+require 'hub'
+require 'city'
 require 'france'
 require 'yaml'
 

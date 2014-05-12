@@ -2,8 +2,6 @@ require 'nokogiri'
 require 'open-uri'
 require 'colorize'
 
-require 'hub'
-
 class City
   attr_reader :name, :population, :hub
 

@@ -320,7 +320,6 @@
   - Les Sorinières
   - Thouaré-sur-Loire
   - Vertou
-  - Total
   population: 582159
 - !ruby/object:Hub
   name: Métropole Nice Côte d'Azur
@@ -568,7 +567,6 @@
   - Sussargues
   - Vendargues
   - Villeneuve-lès-Maguelone
-  - Total
   population: 423842
 - !ruby/object:Hub
   name: Toulon Provence Méditerranée

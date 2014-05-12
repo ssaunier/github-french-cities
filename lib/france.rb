@@ -1,7 +1,6 @@
 require 'nokogiri'
 require 'open-uri'
 require 'set'
-require 'city'
 
 class France
   attr_reader :cities
