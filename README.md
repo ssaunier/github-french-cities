@@ -22,4 +22,5 @@ You can jump straight to the [results](data/github_users_per_hubs.csv).
 1. [Bordeaux Métropole](http://fr.wikipedia.org/wiki/Communaut%C3%A9_urbaine_de_Bordeaux)
 1. [Strasbourg (Communauté urbaine)](http://fr.wikipedia.org/wiki/Communaut%C3%A9_urbaine_de_Strasbourg)
 
-Article to be written.
+I wrote [an article](https://github.com/ssaunier/github-french-cities/blob/master/data/github_users_per_hubs.csv)
+(in French) to comment on thoses results.
